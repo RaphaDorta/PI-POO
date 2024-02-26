@@ -81,6 +81,15 @@ Além disso, pode ocorrer um problema de conectividade durante o processo. Se is
 - **📱Interface para Mobile:** ![Boletim Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre como consultar o boletim -->
+Quando um aluno deseja verificar suas notas, ele pode acessar o sistema e selecionar a opção "Consultar Boletim". Depois disso, ele escolhe o período para o qual deseja visualizar suas notas.
+
+Se houver notas disponíveis para o período selecionado, o sistema exibe o boletim do aluno, mostrando suas notas em cada disciplina.
+
+No entanto, pode acontecer de não haver registros de notas para o período escolhido. Nesse caso, o sistema conclui a consulta do boletim, mas informa ao aluno que não há informações disponíveis para exibir.
+
+Além disso, se houver problemas de conectividade durante o processo, o sistema não permite o acesso ao boletim e exibe uma mensagem de erro, indicando a dificuldade de conexão.
+
+---
 
 ### 4. Efetuar Matrícula/Rematrícula
 
