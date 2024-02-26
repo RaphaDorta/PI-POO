@@ -58,7 +58,7 @@ Quando um aluno, deseja acessar o sistema, ela precisa passar pelo processo de l
 No caso de as credenciais inseridas serem inválidas, o sistema emite uma mensagem de erro, indicando que o login não pôde ser realizado.
 
 Além disso, se houver problemas de conectividade durante o processo de login, o sistema também emite uma mensagem de erro, informando sobre a dificuldade de conexão e sugerindo que o usuário tente novamente mais tarde.
-
+---
 ### 2. Acessar Aulas
 
 - **💻Interface para Página Web:** ![Aulas Página Web](caminho/para/sua/imagem.jpg)
