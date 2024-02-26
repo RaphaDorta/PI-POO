@@ -58,8 +58,10 @@ Nesta opção, os alunos terão acesso a diversas operações:
 
 - **💻Interface para Página Web:** ![Aulas Página Web](caminho/para/sua/imagem.jpg)
 - **📱Interface para Mobile:** ![Aulas Mobile](caminho/para/sua/imagem.jpg)
-
+---
 <!-- Texto explicativo sobre como acessar as aulas -->
+Quando o aluno seleciona "Acessar Aulas" no menu, a página exibe uma lista das aulas disponíveis. No caso de não haver aulas disponíveis, o sistema apresentará uma mensagem informando que ainda não há aulas disponíveis para acesso. Além disso, se houver problemas de conectividade durante o acesso às aulas, a página exibirá uma mensagem de erro de conexão, instruindo o aluno a tentar acessar as aulas mais tarde.
+---
 
 ### 3. Consultar Boletim
 
