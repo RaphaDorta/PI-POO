@@ -53,6 +53,11 @@ Nesta opção, os alunos terão acesso a diversas operações:
 - **📱Interface para Mobile:** ![Login Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de login -->
+Quando um aluno, deseja acessar o sistema, ela precisa passar pelo processo de login. Isso acontece ao acessar a página de login e inserir suas credenciais, como nome de usuário e senha. O sistema então verifica essas credenciais. Se forem válidas, o acesso é autenticado e a pessoa é permitida a entrar no sistema.
+
+No caso de as credenciais inseridas serem inválidas, o sistema emite uma mensagem de erro, indicando que o login não pôde ser realizado.
+
+Além disso, se houver problemas de conectividade durante o processo de login, o sistema também emite uma mensagem de erro, informando sobre a dificuldade de conexão e sugerindo que o usuário tente novamente mais tarde.
 
 ### 2. Acessar Aulas
 
@@ -60,7 +65,11 @@ Nesta opção, os alunos terão acesso a diversas operações:
 - **📱Interface para Mobile:** ![Aulas Mobile](caminho/para/sua/imagem.jpg)
 ---
 <!-- Texto explicativo sobre como acessar as aulas -->
-Quando o aluno seleciona "Acessar Aulas" no menu, a página exibe uma lista das aulas disponíveis. No caso de não haver aulas disponíveis, o sistema apresentará uma mensagem informando que ainda não há aulas disponíveis para acesso. Além disso, se houver problemas de conectividade durante o acesso às aulas, a página exibirá uma mensagem de erro de conexão, instruindo o aluno a tentar acessar as aulas mais tarde.
+Um usuário logado no sistema decide acessar as aulas disponíveis. Ele vai até o menu e seleciona a opção "Acessar Aulas". Em resposta, o sistema exibe uma lista com todas as aulas disponíveis para ele assistir.
+
+No entanto, em algumas ocasiões, pode acontecer de uma aula não estar disponível naquele momento. Nesse caso, o sistema exibe uma mensagem informando ao usuário que a aula está indisponível.
+
+Além disso, pode ocorrer um problema de conectividade durante o processo. Se isso acontecer, o sistema mostra uma mensagem de erro, indicando que há algum problema na conexão.
 ---
 
 ### 3. Consultar Boletim
