@@ -58,7 +58,9 @@ Quando um aluno, deseja acessar o sistema, ela precisa passar pelo processo de l
 No caso de as credenciais inseridas serem inválidas, o sistema emite uma mensagem de erro, indicando que o login não pôde ser realizado.
 
 Além disso, se houver problemas de conectividade durante o processo de login, o sistema também emite uma mensagem de erro, informando sobre a dificuldade de conexão e sugerindo que o usuário tente novamente mais tarde.
+
 ---
+
 ### 2. Acessar Aulas
 
 - **💻Interface para Página Web:** ![Aulas Página Web](caminho/para/sua/imagem.jpg)
@@ -70,6 +72,7 @@ Um usuário logado no sistema decide acessar as aulas disponíveis. Ele vai até
 No entanto, em algumas ocasiões, pode acontecer de uma aula não estar disponível naquele momento. Nesse caso, o sistema exibe uma mensagem informando ao usuário que a aula está indisponível.
 
 Além disso, pode ocorrer um problema de conectividade durante o processo. Se isso acontecer, o sistema mostra uma mensagem de erro, indicando que há algum problema na conexão.
+
 ---
 
 ### 3. Consultar Boletim
