@@ -65,7 +65,7 @@ Além disso, se houver problemas de conectividade durante o processo de login, o
 
 - **💻Interface para Página Web:** ![Aulas Página Web](caminho/para/sua/imagem.jpg)
 - **📱Interface para Mobile:** ![Aulas Mobile](caminho/para/sua/imagem.jpg)
----
+
 <!-- Texto explicativo sobre como acessar as aulas -->
 Um usuário logado no sistema decide acessar as aulas disponíveis. Ele vai até o menu e seleciona a opção "Acessar Aulas". Em resposta, o sistema exibe uma lista com todas as aulas disponíveis para ele assistir.
 
@@ -97,6 +97,15 @@ Além disso, se houver problemas de conectividade durante o processo, o sistema 
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de matrícula/rematrícula -->
+Quando um aluno deseja se matricular em disciplinas para o próximo período letivo, ele acessa o sistema e seleciona a opção "Matrícula/Rematrícula" no menu. Em seguida, ele escolhe o curso desejado e confirma as disciplinas que pretende cursar.
+
+Se todas as disciplinas selecionadas estiverem disponíveis para matrícula, o sistema registra a matrícula do aluno com sucesso.
+
+No entanto, pode acontecer de algumas disciplinas escolhidas não estarem disponíveis para matrícula naquele momento. Nesse caso, o sistema emite uma mensagem informando ao aluno sobre as disciplinas indisponíveis e ele pode fazer novas escolhas.
+
+Além disso, se ocorrer um problema de conectividade durante o processo de matrícula, o sistema não consegue registrar a matrícula do aluno e exibe uma mensagem de erro indicando a dificuldade de conexão.
+
+---
 
 ### 5. Consultar Finaceiro
 
@@ -163,7 +172,7 @@ Area destinada para apresentação dos integrantes do grupo.
 
 Contendo informações, redes sociais e fun facts.
 
-<--! inserir imagem do layout com informações sobre os integrantes do grupo-->>
+<--! inserir imagem do layout com informações sobre os integrantes do grupo -->>
 
 - **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
