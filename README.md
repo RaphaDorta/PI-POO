@@ -146,6 +146,19 @@ Nesta opção, os professores terão acesso a seguinte informação:
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de Lançamento de notas -->
+Quando um professor precisa lançar as notas dos alunos, ele acessa a plataforma do sistema acadêmico. Antes disso, ele deve estar autenticado no sistema e associado a uma disciplina.
+
+Ao acessar a plataforma, o professor seleciona a disciplina que leciona. O sistema então exibe uma lista de alunos matriculados naquela disciplina. O professor escolhe um aluno específico, e o sistema mostra a lista de atividades avaliativas do aluno.
+
+Em seguida, o professor insere as notas para cada atividade. O sistema, então, calcula automaticamente a média final com base nas notas inseridas. O professor tem a oportunidade de revisar as notas calculadas e, se estiver satisfeito, confirma o lançamento das notas.
+
+No entanto, pode ocorrer um erro no lançamento de notas, caso o professor insira uma nota incorreta. Nesse caso, o sistema exibe uma mensagem de erro e o professor corrige a nota conforme necessário. Após a correção, o sistema recalcula a média final.
+
+Outro cenário é se o professor decidir não lançar as notas. Nesse caso, o sistema cancela o processo de lançamento, mantendo as informações anteriores. O professor é então redirecionado para a página principal.
+
+Após a conclusão do processo, as notas do aluno são registradas no sistema.
+
+---
 
 ### 3. Acessar aulas
 
@@ -153,7 +166,13 @@ Nesta opção, os professores terão acesso a seguinte informação:
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de acessar aulas na visão do professor -->
+Um usuário logado no sistema decide acessar as aulas disponíveis. Ele vai até o menu e seleciona a opção "Acessar Aulas". Em resposta, o sistema exibe uma lista com todas as aulas disponíveis para ele assistir.
 
+No entanto, em algumas ocasiões, pode acontecer de uma aula não estar disponível naquele momento. Nesse caso, o sistema exibe uma mensagem informando ao usuário que a aula está indisponível.
+
+Além disso, pode ocorrer um problema de conectividade durante o processo. Se isso acontecer, o sistema mostra uma mensagem de erro, indicando que há algum problema na conexão.
+
+---
 
 ## Opção "Fornecedor"
 
