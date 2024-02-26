@@ -165,6 +165,19 @@ Nesta opção, os professores terão acesso a seguinte informação:
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de Gerenciar Fornecedor -->
+Quando o administrador do sistema precisa lidar com fornecedores, ele acessa o painel de administração do sistema. Lá, ele tem a opção de "Gerenciar Fornecedor", onde pode visualizar todos os fornecedores cadastrados.
+
+Ao selecionar um fornecedor específico, ele pode ver detalhes como nome, informações de contato e detalhes do contrato. Se necessário, ele pode editar essas informações diretamente no sistema e salvar as alterações feitas.
+
+Além disso, o administrador tem a possibilidade de adicionar novos fornecedores, inserindo os detalhes necessários em um formulário específico. Após salvar as informações, o novo fornecedor é adicionado à lista.
+
+Se por algum motivo um fornecedor precisa ser removido, o administrador pode selecionar a opção "Remover Fornecedor" e confirmar a exclusão.
+
+Para facilitar a busca por fornecedores específicos, o sistema oferece uma função de pesquisa. O administrador pode digitar o nome ou outras informações relacionadas ao fornecedor na barra de pesquisa, e o sistema mostrará os resultados correspondentes.
+
+Essas funcionalidades permitem que o administrador gerencie de forma eficaz e organizada todos os fornecedores que têm relação com o sistema.
+
+---
 
 ## Opção "Sobre nós"
 
