@@ -267,6 +267,7 @@ Em casos onde erros são identificados ou se o professor opta por não lançar a
 
 **Conclusão:**
 O processo de lançamento de notas por professores é um aspecto fundamental da administração acadêmica, garantindo uma avaliação justa e precisa do desempenho dos alunos. Ao seguir este guia e estar ciente dos cenários alternativos, os professores podem garantir um registro eficaz e preciso das notas dos alunos.
+
 ---
 
 ### 3. Acessar aulas
