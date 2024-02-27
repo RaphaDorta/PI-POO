@@ -57,7 +57,7 @@ O processo de efetuar login em um sistema online é uma etapa fundamental para q
 
 Antes de acessar os recursos online, é necessário efetuar login no sistema.
 
-####Passo a Passo:
+**Passo a Passo:**
 
 Acessar a Página de Login: O primeiro passo é acessar a página de login do sistema. Geralmente, essa página é encontrada na página inicial do sistema ou em uma área específica para acesso restrito.
 
@@ -67,7 +67,7 @@ Verificação das Credenciais: Após inserir as credenciais, o sistema verifica 
 
 Autenticação do Acesso: Se as credenciais inseridas forem válidas, o sistema autentica o acesso e concede permissão para entrar no sistema. O usuário é redirecionado para a página inicial ou para a área restrita onde pode acessar os recursos disponíveis.
 
-####Cenários Alternativos:
+**Cenários Alternativos:**
 
 Credenciais Inválidas: Se o usuário inserir credenciais inválidas, como um nome de usuário incorreto ou uma senha incorreta, o sistema exibirá uma mensagem de erro indicando que as credenciais são inválidas. O usuário pode tentar novamente inserir as credenciais corretas.
 
@@ -151,7 +151,7 @@ Após selecionar as disciplinas desejadas, os alunos precisam confirmar suas esc
 **Passo 4: Registro da Matrícula/Rematrícula**
 Uma vez confirmadas as escolhas, o sistema registra oficialmente a matrícula ou rematrícula do aluno nas disciplinas selecionadas. Esse registro é essencial para garantir que o aluno tenha acesso às aulas, materiais e recursos relacionados às disciplinas escolhidas.
 
-####Possíveis Cenários Alternativos:
+**Possíveis Cenários Alternativos:**
 
 **Disciplinas Indisponíveis:** Em alguns casos, algumas das disciplinas selecionadas podem não estar disponíveis para matrícula devido a restrições de capacidade, pré-requisitos não cumpridos ou outras razões. Nesse caso, o sistema informará ao aluno sobre a indisponibilidade das disciplinas selecionadas.
 
@@ -178,7 +178,7 @@ Dentro do sistema, os alunos navegam até a seção designada para consulta fina
 **Passo 3: Visualização das Informações Financeiras**
 Após selecionar a opção de consulta financeira, o sistema exibe uma série de informações relevantes para o aluno. Isso pode incluir detalhes sobre mensalidades, taxas de matrícula, custos de material didático e outras despesas associadas à sua educação. Essas informações são apresentadas de forma clara e organizada para facilitar a compreensão do aluno.
 
-####Cenários Alternativos:
+**Cenários Alternativos:**
 
 **Nenhum Registro de Informações Financeiras:**
 Se não houver registros de informações financeiras para o aluno, o sistema exibirá uma mensagem informando sobre essa situação. Isso pode ocorrer se o aluno não tiver pendências financeiras ou se os registros ainda não estiverem disponíveis no sistema.
