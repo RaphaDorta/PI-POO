@@ -66,7 +66,7 @@ Após inserir as credenciais, o sistema verifica se elas correspondem às inform
 
 
 
-**Cenários Alternativos:**
+**`Cenários Alternativos:`**
 Se o usuário inserir credenciais inválidas, o sistema exibirá uma mensagem de erro informando que as credenciais são inválidas. Porém, o usuário pode tentar novamente.
 Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
 
@@ -94,7 +94,7 @@ Dentro da seção de aulas, os alunos encontram uma lista das matérias disponí
 **`Visualização do Conteúdo da Aula:`**
 Após selecionar uma aula, você será direcionado para a página onde o conteúdo da aula está disponível. Isso pode incluir vídeos gravados, apresentações de slides, documentos de leitura, ou qualquer outro material relacionado ao tópico abordado na aula. Os alunos podem assistir às aulas no momento em que prefererir.
 
-**`Resolução de Problemas:`**
+**`Cenários Alternativos:`**
 Durante o acesso às aulas, os alunos podem encontrar alguns desafios, como aulas indisponíveis ou dificuldades de conectividade à internet. Nesses casos, é importante entrar em contato com o suporte técnico da instituição para resolver qualquer problema e garantir que o acesso ao conteúdo acadêmico não seja comprometido.
 
 As aulas online não só são um pilar essencial na experiência educacional, mas também se apresentam como uma ferramenta indispensável, proporcionando a possibilidade de reassistir quantas vezes necessário.  Isso concede aos alunos maior controle sobre seu processo de aprendizado.
@@ -144,7 +144,7 @@ No processo de Rematricula é necessário selecionar as disciplinas desejadas. E
 **`Registro da Matrícula/Rematrícula`**
 Uma vez confirmadas as escolhas, o sistema registra oficialmente a matrícula ou rematrícula. 
 
-**Cenários Alternativos:**
+**`Cenários Alternativos:`**
 Em alguns casos, algumas das disciplinas selecionadas podem não estar disponíveis para matrícula, pré-requisitos não cumpridos ou outras razões. Nesse caso, o sistema informará ao aluno sobre a indisponibilidade das disciplinas selecionadas.
 Durante o processo podem ocorrer problemas de conectividade com o sistema, impedindo que conclua o processo com sucesso. Isso pode ser causado por falhas na conexão com a internet ou problemas técnicos no sistema da instituição. Nesse caso, o aluno deve tentar novamente mais tarde ou entrar em contato com o suporte técnico para resolver o problema.
 
@@ -156,33 +156,20 @@ Durante o processo podem ocorrer problemas de conectividade com o sistema, imped
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de consultar financeiro -->
-A consulta financeira é uma parte essencial da experiência acadêmica de um aluno, permitindo-lhes compreender e gerenciar suas obrigações financeiras relacionadas à educação. Este processo é fundamental para garantir que os alunos estejam cientes de suas mensalidades, taxas e outras despesas acadêmicas, garantindo assim uma educação financeiramente sustentável.
+A consulta financeira desempenha um papel crucial na gestão das obrigações financeiras para com a instituição, garantindo que os alunos estejam plenamente cientes de suas mensalidades, taxas e demais despesas acadêmicas.
 
-**Passo 1: Acesso ao Sistema**
+**`Localização da Seção Consultar Finaceiro:`** 
+Selecione a opção Consultar Finaceiro no menu principal.
 
-Para iniciar o processo de consulta financeira, o aluno precisa acessar o sistema online fornecido pela instituição educacional. Esse sistema geralmente é acessível por meio de um portal ou plataforma dedicada, onde os alunos podem fazer login usando suas credenciais pessoais.
 
-**Passo 2: Seleção da Opção de Consulta Financeira**
-
-Dentro do sistema, os alunos navegam até a seção designada para consulta financeira. Essa opção pode ser encontrada no menu principal do sistema ou em uma área específica relacionada a questões financeiras.
-
-**Passo 3: Visualização das Informações Financeiras**
-
+**`Visualização das Informações Financeiras:`**
 Após selecionar a opção de consulta financeira, o sistema exibe uma série de informações relevantes para o aluno. Isso pode incluir detalhes sobre mensalidades, taxas de matrícula, custos de material didático e outras despesas associadas à sua educação. Essas informações são apresentadas de forma clara e organizada para facilitar a compreensão do aluno.
 
-**Cenários Alternativos:**
+**`Cenários Alternativos:`**
+Se não houver registros de informações financeiras, o sistema exibirá uma mensagem informando sobre essa situação. Isso pode ocorrer se o aluno não tiver pendências financeiras ou se os registros ainda não estiverem disponíveis.
+Durante o processo de consulta pode haver um problema de conectividade com o servidor, impedindo o acesso das informações. Nesse caso, o sistema exibirá uma mensagem de erro indicando o problema e sugerindo que tente novamente mais tarde.
 
-**Nenhum Registro de Informações Financeiras:**
-
-Se não houver registros de informações financeiras para o aluno, o sistema exibirá uma mensagem informando sobre essa situação. Isso pode ocorrer se o aluno não tiver pendências financeiras ou se os registros ainda não estiverem disponíveis no sistema.
-
-**Problema de Conectividade:**
-
-Durante o processo de consulta financeira, pode haver um problema de conectividade com o servidor, impedindo o acesso às informações financeiras. Nesse caso, o sistema exibirá uma mensagem de erro indicando o problema e sugerindo que o aluno tente novamente mais tarde.
-
-**Conclusão:**
-
-A consulta financeira é uma ferramenta poderosa que permite aos alunos ter uma visão clara de suas obrigações financeiras relacionadas à educação. Ao compreender suas finanças acadêmicas, os alunos podem tomar decisões informadas e responsáveis, garantindo assim uma jornada educacional bem-sucedida e sem contratempos financeiros.
+---
 
 ### 6. Consultar Desempenho
 
@@ -190,38 +177,26 @@ A consulta financeira é uma ferramenta poderosa que permite aos alunos ter uma 
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de Consultar Desempenho -->
-Um aspecto fundamental da jornada acadêmica de qualquer aluno é acompanhar seu desempenho ao longo do curso. Isso envolve verificar regularmente as notas obtidas em diferentes disciplinas, bem como o número de faltas acumuladas. Para facilitar essa tarefa, as instituições educacionais frequentemente disponibilizam sistemas online que permitem aos alunos acessarem suas informações acadêmicas. Aqui está um guia simples sobre como realizar essa consulta:
+Um componente crucial na jornada acadêmica de todo aluno é acompanhar de perto seu desempenho ao longo do curso. Isso envolve a verificação regular das notas em várias atividades das disciplinas.
 
-**Passo 1: Acesso ao Sistema**
 
-O primeiro passo é acessar o sistema online da instituição, onde os alunos podem encontrar uma variedade de recursos e informações relacionadas aos seus estudos. Geralmente, isso é feito através de um portal ou plataforma online, onde os alunos podem fazer login com suas credenciais pessoais.
+**`Localização da Seção Consultar Desempenho:`** 
+Selecione a opção Consultar Finaceiro no menu principal.
 
-**Passo 2: Seleção da Opção de Consulta de Desempenho**
+**`Escolher a Matéria`**
+Dentro da seção consulta de desempenho, os alunos têm a opção de escolher a matéria específica para a qual desejam verificar seu desempenho. 
 
-Uma vez dentro do sistema, os alunos navegam até a seção designada para consulta de desempenho acadêmico. Essa opção pode estar localizada no menu principal ou em uma área específica dedicada a questões acadêmicas.
+**`Visualização das Notas`**
+Após selecionar a matéria desejada, o sistema exibe as notas obtidas pelo aluno em diferentes atividades avaliativas, como provas, trabalhos e participações.
 
-**Passo 3: Escolha da Matéria**
-
-Dentro da seção de consulta de desempenho, os alunos têm a opção de escolher a matéria específica para a qual desejam verificar seu desempenho. Isso permite uma análise mais detalhada das notas e faltas em uma disciplina específica.
-
-**Passo 4: Visualização das Notas e Faltas**
-
-Após selecionar a matéria desejada, o sistema exibe as notas obtidas pelo aluno em diferentes atividades avaliativas, como provas, trabalhos e participações. Além disso, também são exibidas informações sobre o número de faltas acumuladas pelo aluno naquela disciplina.
-
-**Possíveis Cenários Alternativos:**
-
-**Pendência de Informações:** 
-
-Em alguns casos, pode haver pendências de informações, como notas que ainda não foram lançadas ou faltas que ainda não foram registradas. Nesses casos, o sistema geralmente informa ao aluno sobre essas pendências e orienta sobre como proceder.
-
-**Problema de Conectividade:** 
-
+**`Cenários Alternativos:`**
+Em alguns casos, pode haver pendências de informações, como notas que ainda não foram lançadas.. Nesses casos, o sistema informa ao aluno sobre essas pendências e orienta sobre como proceder.
 Durante o processo de consulta, pode ocorrer um problema de conectividade com o servidor, o que pode impedir o acesso às informações acadêmicas. Nesses casos, os alunos devem verificar sua conexão com a internet e tentar novamente mais tarde.
 
-**Conclusão:**
 
 A consulta de desempenho acadêmico é uma ferramenta valiosa para os alunos acompanharem seu progresso e identificarem áreas que precisam de melhoria. Ao seguir os passos descritos acima e estar ciente dos possíveis cenários alternativos, os alunos podem ter uma visão clara de seu desempenho acadêmico e tomar medidas para alcançar seus objetivos educacionais.
 
+---
 ## Opção "Professor"
 
 Nesta opção, os professores terão acesso a seguinte informação:
