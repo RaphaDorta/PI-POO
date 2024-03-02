@@ -49,7 +49,7 @@ Nesta opção, os alunos terão acesso a diversas operações:
 
 ### 1. Efetuar Login
 
-- **💻Interface para Página Web:** ![Login Página Web](caminho/para/sua/imagem.jpg)
+- **💻Interface para Página Web:** ![Login Página Web](pageLoginAluno.png)
 - **📱Interface para Mobile:** ![Login Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de login -->
