@@ -55,8 +55,6 @@ Nesta opção, os alunos terão acesso a diversas operações:
 <!-- Texto explicativo sobre o processo de login -->
 O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para alunos e possíveis cenários alternativos que podem surgir durante esse processo.
 
-**Passo a Passo:**
-
 **`Acessar a Página de Login:`** 
 O primeiro passo é acessar a página de login do sistema.
 
