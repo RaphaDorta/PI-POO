@@ -67,6 +67,7 @@ O primeiro passo é acessar a página de login do sistema.
 Após inserir as credenciais, o sistema verifica se elas correspondem às informações armazenadas no banco de dados. Se estiverem corretas, o acesso é concedido. Caso contrário, o sistema exibe uma mensagem  de acordo com possíveis cenários alternativos.
 
 
+
 **Cenários Alternativos:**
 
 **`Credenciais Inválidas:`** 
@@ -85,33 +86,26 @@ Em resumo, efetuar login é um procedimento simples e obrigatório. Seguindo os 
 - **📱Interface para Mobile:** ![Aulas Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre como acessar as aulas -->
-No ambiente educacional moderno, o acesso às aulas online se tornou uma parte fundamental da experiência de aprendizado para muitos alunos. Esse processo pode variar de acordo com a plataforma ou sistema utilizado pela instituição educacional, mas geralmente segue uma sequência de passos semelhantes para garantir uma experiência de aprendizado eficaz.
+A opção de acessar aulas online oferece aos alunos flexibilidade, permitindo o aprendizado de qualquer lugar e a construção de horários personalizados.
 
-**1. Autenticação no Sistema:**
+**`Autenticação no Sistema:`**
+Antes de acessar as aulas online, é necessário ter realizado o processo de login, assegurando que apenas alunos autorizados tenham acesso aos conteúdos acadêmicos.
 
-Antes de acessar as aulas online, os alunos precisam se autenticar no sistema da instituição. Isso geralmente envolve fazer login com credenciais fornecidas pela própria instituição, como nome de usuário e senha. A autenticação é necessária para garantir que apenas os alunos autorizados tenham acesso ao conteúdo acadêmico.
+**`Localização da Seção de Aulas:`**
+Após entrar no sistema, selecione a seção designada para acesso às aulas. Essa seção pode ser facilmente encontrada no menu principal.
 
-**2. Localização da Seção de Aulas:**
+**`Seleção e Navegação entre as Aulas:`**
+Dentro da seção de aulas, os alunos encontram uma lista das matérias disponíveis. Ao escolher a disciplina desejada, é necessário selecionar uma aula específica para assistir. As aulas estão organizadas por disciplina e data de gravação.
 
-Após entrar no sistema, os alunos navegaram até a seção designada para acesso às aulas. Essa seção pode ser facilmente encontrada no menu principal ou em uma área específica do ambiente virtual de aprendizado.
+**`Visualização do Conteúdo da Aula:`**
+Após selecionar uma aula, você será direcionado para a página onde o conteúdo da aula está disponível. Isso pode incluir vídeos gravados, apresentações de slides, documentos de leitura, ou qualquer outro material relacionado ao tópico abordado na aula. Os alunos podem assistir às aulas no momento em que prefererir.
 
-**3. Seleção e Navegação entre as Aulas:**
+**`Resolução de Problemas:`**
+Durante o acesso às aulas, os alunos podem encontrar alguns desafios, como aulas indisponíveis ou dificuldades de conectividade à internet. Nesses casos, é importante entrar em contato com o suporte técnico da instituição para resolver qualquer problema e garantir que o acesso ao conteúdo acadêmico não seja comprometido.
 
-Dentro da seção de aulas, os alunos geralmente encontram uma lista das aulas disponíveis. Eles podem selecionar uma aula específica para assistir, ou navegar entre as diferentes opções de acordo com o seu interesse ou cronograma acadêmico. Dependendo do sistema utilizado, as aulas podem estar organizadas por disciplina, data, ou outro critério relevante.
+Em resumo, as aulas online não só são um pilar essencial na experiência educacional, mas também se apresentam como uma ferramenta indispensável, proporcionando a possibilidade de reassistir quantas vezes necessário.  Isso concede aos alunos maior controle sobre seu processo de aprendizado.
 
-**4. Visualização do Conteúdo da Aula:**
-
-Após selecionar uma aula, os alunos são direcionados para a página onde o conteúdo da aula está disponível. Isso pode incluir vídeos gravados, apresentações de slides, documentos de leitura, ou qualquer outro material relacionado ao tópico abordado na aula. Os alunos podem assistir às aulas no momento em que for mais conveniente para eles, permitindo flexibilidade em seu horário de estudo.
-
-**5. Participação e Interatividade:**
-
-Além de assistir às aulas, muitas plataformas educacionais online também oferecem recursos para interação e participação dos alunos. Isso pode incluir fóruns de discussão, salas de bate-papo ao vivo, atividades práticas, quizzes ou outras formas de engajamento com o conteúdo e com os colegas de classe.
-
-**6. Resolução de Problemas:**
-
-Durante o processo de acesso às aulas, os alunos podem encontrar alguns desafios, como aulas indisponíveis devido a problemas técnicos ou dificuldades de conectividade à internet. Nesses casos, é importante entrar em contato com o suporte técnico da instituição para resolver qualquer problema e garantir que o acesso ao conteúdo acadêmico não seja comprometido.
-
-Em resumo, o acesso às aulas online é uma parte essencial da experiência de aprendizado dos alunos em muitas instituições educacionais. Seguindo os passos mencionados acima, os alunos podem aproveitar ao máximo as oportunidades de aprendizado oferecidas pelas aulas online, garantindo assim o seu progresso acadêmico e o alcance de seus objetivos educacionais.
+  
 
 ---
 
