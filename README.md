@@ -67,11 +67,7 @@ Após inserir as credenciais, o sistema verifica se elas correspondem às inform
 
 
 **Cenários Alternativos:**
-
-**`Credenciais Inválidas:`** 
 Se o usuário inserir credenciais inválidas, o sistema exibirá uma mensagem de erro informando que as credenciais são inválidas. Porém, o usuário pode tentar novamente.
-
-**`Problema de Conectividade:`** 
 Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
 
 Efetuar login é um procedimento simples e obrigatório. Seguindo os passos mencionados acima, estando ciente dos possíveis cenários alternativos, os usuários podem garantir um acesso seguro e eficaz da instituição.
@@ -90,7 +86,7 @@ A opção de acessar aulas online oferece aos alunos flexibilidade, permitindo o
 Antes de acessar as aulas online, é necessário ter realizado o processo de login, assegurando que apenas alunos autorizados tenham acesso aos conteúdos acadêmicos.
 
 **`Localização da Seção de Aulas:`**
-Após entrar no sistema, selecione a seção designada para acesso às aulas. Essa seção pode ser facilmente encontrada no menu principal.
+Selecione a opção acessar aulas no menu principal.
 
 **`Seleção e Navegação entre as Aulas:`**
 Dentro da seção de aulas, os alunos encontram uma lista das matérias disponíveis. Ao escolher a disciplina desejada, é necessário selecionar uma aula específica para assistir. As aulas estão organizadas por disciplina e data de gravação.
@@ -113,21 +109,18 @@ As aulas online não só são um pilar essencial na experiência educacional, ma
 - **📱Interface para Mobile:** ![Boletim Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre como consultar o boletim -->
-Para os alunos de instituições de ensino, consultar o boletim acadêmico é uma etapa crucial para acompanhar seu progresso e desempenho ao longo do semestre. O processo de consulta geralmente ocorre por meio de plataformas online fornecidas pela própria instituição, onde os alunos podem acessar informações detalhadas sobre suas notas e frequência em cada disciplina cursada.
+Consultar o boletim possibilita verificar a média final nas disciplinas, oferecendo uma análise abrangente do desempenho acadêmico.
 
-Ao iniciar o processo de consulta, o aluno primeiro precisa fazer login no sistema, fornecendo suas credenciais de acesso. Isso garante que apenas os alunos autorizados tenham acesso às informações acadêmicas pessoais.
 
-Uma vez autenticado, o aluno navega até a seção designada para consultar o boletim. Essa opção geralmente está localizada dentro do ambiente virtual de aprendizagem ou em um portal específico da instituição.
+**`Localização da Seção Consultar Boletim:`** Selecione a opção consultar o boletim no menu principal.
 
-Ao selecionar a opção para consultar o boletim, o aluno é direcionado para uma nova página ou tela onde pode especificar o período acadêmico desejado. Isso permite que o aluno escolha entre os semestres anteriores ou o semestre atual para visualizar suas notas.
+**`Visualização do Boletim:`** 
+Ao selecionar a opção, o aluno é direcionado para uma nova tela onde pode especificar o curso e  período acadêmico desejado. Neste boletim, o aluno pode ver suas notas em cada disciplina, médias parciais e finais, assim como sua frequência nas aulas.
 
-Após selecionar o período desejado, o sistema processa a solicitação e exibe o boletim acadêmico do aluno. Neste boletim, o aluno pode ver suas notas em cada disciplina, médias parciais e finais, assim como sua frequência nas aulas.
-
+**`Cenários Alternativos:`**
 No entanto, podem surgir cenários alternativos durante o processo de consulta do boletim. Por exemplo, pode não haver registros de notas para o período selecionado, o que indica a ausência de informações disponíveis para aquele semestre em particular. Nesse caso, o sistema geralmente exibe uma mensagem informativa indicando a falta de registros.
-
 Além disso, problemas de conectividade podem surgir, impedindo o acesso do aluno ao sistema ou causando interrupções durante o processo de consulta. Isso pode ser frustrante para o aluno, que pode precisar tentar novamente mais tarde quando a conexão estiver mais estável.
 
-Em resumo, o processo de consulta do boletim acadêmico é uma parte essencial da experiência do aluno, fornecendo uma visão detalhada de seu desempenho acadêmico e permitindo que eles acompanhem seu progresso ao longo do tempo.
 
 ---
 
@@ -137,35 +130,23 @@ Em resumo, o processo de consulta do boletim acadêmico é uma parte essencial d
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de matrícula/rematrícula -->
-A matrícula ou rematrícula é um processo fundamental para alunos que desejam cursar disciplinas em um determinado período letivo. Esse procedimento permite que os alunos selecionem as disciplinas que desejam estudar, garantindo assim sua participação ativa no currículo acadêmico.
+A matrícula é o ato inicial de inscrição em uma instituição educacional, enquanto a rematrícula é a renovação do vínculo para o próximo período letivo, assegurando a continuidade dos estudos. Ambos são processos cruciais para garantir a regularidade acadêmica.
 
-**Passo 1: Acesso ao Sistema de Matrícula/Rematrícula**
+**`Localização da Seção Efetuar Matrícula/Rematricula:`** 
+Selecione a opção Efetuar Matrícula/Rematrícula no menu principal.
 
-O primeiro passo para efetuar a matrícula ou rematrícula é acessar o sistema disponibilizado pela instituição de ensino. Esse sistema geralmente está disponível online, permitindo que os alunos façam suas escolhas de forma conveniente.
+**`Escolha do Curso`**
+Dentro do sistema de matrícula/rematrícula, os alunos têm a oportunidade de escolher o curso que desejam realizar a matricula. 
 
-**Passo 2: Escolha do Curso e Disciplinas**
+**`Confirmação das Disciplinas`**
+No processo de Rematricula é necessário selecionar as disciplinas desejadas. Essa confirmação envolve revisar as disciplinas selecionadas e clicar em um botão de confirmação para finalizar o processo de matrícula/rematrícula.
 
-Dentro do sistema de matrícula/rematrícula, os alunos têm a oportunidade de escolher o curso que desejam cursar no próximo período letivo. Após selecionar o curso, eles têm acesso à lista de disciplinas oferecidas e podem escolher aquelas que desejam cursar. Essa etapa é crucial, pois permite que os alunos personalizem seu currículo de acordo com seus interesses e metas acadêmicas.
+**`Registro da Matrícula/Rematrícula`**
+Uma vez confirmadas as escolhas, o sistema registra oficialmente a matrícula ou rematrícula. 
 
-**Passo 3: Confirmação das Disciplinas**
-
-Após selecionar as disciplinas desejadas, os alunos precisam confirmar suas escolhas dentro do sistema. Essa confirmação geralmente envolve revisar as disciplinas selecionadas e clicar em um botão de confirmação para finalizar o processo de matrícula/rematrícula.
-
-**Passo 4: Registro da Matrícula/Rematrícula**
-
-Uma vez confirmadas as escolhas, o sistema registra oficialmente a matrícula ou rematrícula do aluno nas disciplinas selecionadas. Esse registro é essencial para garantir que o aluno tenha acesso às aulas, materiais e recursos relacionados às disciplinas escolhidas.
-
-**Possíveis Cenários Alternativos:**
-
-**Disciplinas Indisponíveis:** 
-
-Em alguns casos, algumas das disciplinas selecionadas podem não estar disponíveis para matrícula devido a restrições de capacidade, pré-requisitos não cumpridos ou outras razões. Nesse caso, o sistema informará ao aluno sobre a indisponibilidade das disciplinas selecionadas.
-
-**Problemas de Conectividade:** 
-
-Durante o processo de matrícula/rematrícula, podem ocorrer problemas de conectividade com o sistema, impedindo que o aluno conclua o processo com sucesso. Isso pode ser causado por falhas na conexão com a internet ou problemas técnicos no sistema da instituição. Nesse caso, o aluno deve tentar novamente mais tarde ou entrar em contato com o suporte técnico para resolver o problema.
-
-Em resumo, a matrícula ou rematrícula é um passo crucial na jornada acadêmica de um aluno, permitindo que ele personalize seu currículo de acordo com seus interesses e objetivos educacionais. Ao seguir os passos mencionados e estar ciente dos possíveis cenários alternativos, os alunos podem garantir uma matrícula bem-sucedida e uma experiência acadêmica enriquecedora.
+**Cenários Alternativos:**
+Em alguns casos, algumas das disciplinas selecionadas podem não estar disponíveis para matrícula, pré-requisitos não cumpridos ou outras razões. Nesse caso, o sistema informará ao aluno sobre a indisponibilidade das disciplinas selecionadas.
+Durante o processo podem ocorrer problemas de conectividade com o sistema, impedindo que conclua o processo com sucesso. Isso pode ser causado por falhas na conexão com a internet ou problemas técnicos no sistema da instituição. Nesse caso, o aluno deve tentar novamente mais tarde ou entrar em contato com o suporte técnico para resolver o problema.
 
 ---
 
