@@ -53,29 +53,29 @@ Nesta opção, os alunos terão acesso a diversas operações:
 - **📱Interface para Mobile:** ![Login Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de login -->
-O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos no processo de login, bem como os possíveis cenários alternativos que podem surgir durante esse processo.
+O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para alunos e possíveis cenários alternativos que podem surgir durante esse processo.
 
-**Passo a Passo**
+**Passo a Passo:**
 
 **`Acessar a Página de Login:`** 
-O primeiro passo é acessar a página de login do sistema. Geralmente, essa página é encontrada na página inicial do sistema ou em uma área específica para acesso restrito.
+O primeiro passo é acessar a página de login do sistema.
 
 **`Inserir Credenciais de Acesso:`** 
-Na página de login, é necessário inserir as credenciais de acesso corretas. Isso inclui um nome de usuário ou e-mail e uma senha previamente cadastrada.
+É necessário inserir as credenciais de acesso corretas. Isso inclui um nome de usuário ou e-mail e uma senha previamente cadastrada.
 
 **`Verificação das Credenciais:`** 
-Após inserir as credenciais, o sistema verifica se elas correspondem às informações armazenadas no banco de dados. Se as credenciais estiverem corretas, o acesso é concedido. Caso contrário, o sistema exibe uma mensagem de erro indicando que as credenciais são inválidas.
+Após inserir as credenciais, o sistema verifica se elas correspondem às informações armazenadas no banco de dados. Se estiverem corretas, o acesso é concedido. Caso contrário, o sistema exibe uma mensagem  de acordo com possíveis cenários alternativos.
 
 
 **Cenários Alternativos:**
 
-**Credenciais Inválidas:** 
+**`Credenciais Inválidas:`** 
 Se o usuário inserir credenciais inválidas, o sistema exibirá uma mensagem de erro informando que as credenciais são inválidas. Porém, o usuário pode tentar novamente.
 
-**Problema de Conectividade:** 
-Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. O sistema exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
+**`Problema de Conectividade:`** 
+Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
 
-Em resumo, efetuar login é um procedimento simples e obrigatório, para ter acesso aos recursos online disponíveis na plataforma. Seguindo os passos mencionados acima, estando ciente dos possíveis cenários alternativos, os usuários podem garantir um acesso seguro e eficaz da instituição.
+Em resumo, efetuar login é um procedimento simples e obrigatório. Seguindo os passos mencionados acima, estando ciente dos possíveis cenários alternativos, os usuários podem garantir um acesso seguro e eficaz da instituição.
 
 ---
 
