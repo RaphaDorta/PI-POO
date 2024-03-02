@@ -74,7 +74,7 @@ Se o usuário inserir credenciais inválidas, o sistema exibirá uma mensagem de
 **`Problema de Conectividade:`** 
 Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
 
-Em resumo, efetuar login é um procedimento simples e obrigatório. Seguindo os passos mencionados acima, estando ciente dos possíveis cenários alternativos, os usuários podem garantir um acesso seguro e eficaz da instituição.
+Efetuar login é um procedimento simples e obrigatório. Seguindo os passos mencionados acima, estando ciente dos possíveis cenários alternativos, os usuários podem garantir um acesso seguro e eficaz da instituição.
 
 ---
 
@@ -101,7 +101,7 @@ Após selecionar uma aula, você será direcionado para a página onde o conteú
 **`Resolução de Problemas:`**
 Durante o acesso às aulas, os alunos podem encontrar alguns desafios, como aulas indisponíveis ou dificuldades de conectividade à internet. Nesses casos, é importante entrar em contato com o suporte técnico da instituição para resolver qualquer problema e garantir que o acesso ao conteúdo acadêmico não seja comprometido.
 
-Em resumo, as aulas online não só são um pilar essencial na experiência educacional, mas também se apresentam como uma ferramenta indispensável, proporcionando a possibilidade de reassistir quantas vezes necessário.  Isso concede aos alunos maior controle sobre seu processo de aprendizado.
+As aulas online não só são um pilar essencial na experiência educacional, mas também se apresentam como uma ferramenta indispensável, proporcionando a possibilidade de reassistir quantas vezes necessário.  Isso concede aos alunos maior controle sobre seu processo de aprendizado.
 
   
 
