@@ -39,7 +39,7 @@ Nesta seção, apresentaremos a interface da página inicial para os usuários, 
 
 | **💻 Interface para Página Web** | **📱Interface para Mobile** |
 |:-----------------------------:|:-------------------------:|
-| ![Texto Alternativo](caminho/para/sua/imagem.jpg) | ![Texto Alternativo](caminho/para/sua/imagem.jpg) |
+| ![Texto Alternativo](pageInicial.png) | ![Texto Alternativo](caminho/para/sua/imagem.jpg) |
 
 ---
 
@@ -126,7 +126,7 @@ Além disso, problemas de conectividade podem surgir, impedindo o acesso do alun
 
 ### 4. Efetuar Matrícula/Rematrícula
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
+- **💻Interface para Página Web:** ![Matrícula Página Web](pageMatricula.png)
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de matrícula/rematrícula -->
