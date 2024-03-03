@@ -135,13 +135,13 @@ A matrícula é o ato inicial de inscrição em uma instituição educacional, e
 **`Localização da Seção Efetuar Matrícula/Rematricula:`** 
 Selecione a opção Efetuar Matrícula/Rematrícula no menu principal.
 
-**`Escolha do Curso`**
+**`Escolha do Curso:`**
 Dentro do sistema de matrícula/rematrícula, os alunos têm a oportunidade de escolher o curso que desejam realizar a matricula. 
 
-**`Confirmação das Disciplinas`**
+**`Confirmação das Disciplinas:`**
 No processo de Rematricula é necessário selecionar as disciplinas desejadas. Essa confirmação envolve revisar as disciplinas selecionadas e clicar em um botão de confirmação para finalizar o processo de matrícula/rematrícula.
 
-**`Registro da Matrícula/Rematrícula`**
+**`Registro da Matrícula/Rematrícula:`**
 Uma vez confirmadas as escolhas, o sistema registra oficialmente a matrícula ou rematrícula. 
 
 **`Cenários Alternativos:`**
@@ -183,10 +183,10 @@ Um componente crucial na jornada acadêmica de todo aluno é acompanhar de perto
 **`Localização da Seção Consultar Desempenho:`** 
 Selecione a opção Consultar Finaceiro no menu principal.
 
-**`Escolher a Matéria`**
+**`Escolher a Matéria:`**
 Dentro da seção consulta de desempenho, os alunos têm a opção de escolher a matéria específica para a qual desejam verificar seu desempenho. 
 
-**`Visualização das Notas`**
+**`Visualização das Notas:`**
 Após selecionar a matéria desejada, o sistema exibe as notas obtidas pelo aluno em diferentes atividades avaliativas, como provas, trabalhos e participações.
 
 **`Cenários Alternativos:`**
@@ -199,14 +199,19 @@ A consulta de desempenho acadêmico é uma ferramenta valiosa para os alunos aco
 ---
 ## Opção "Professor"
 
-Nesta opção, os professores terão acesso a seguinte informação:
+Nesta opção, os professores terão acesso a diversas operações:
 
-### 1. Eferuar login
+### 1. Efetuar login
 
 - **💻Interface para Página Web:** ![Login do Professor](pageLoginProfessor.png)
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de Efetuar login professor -->
+
+**`Acesso à Plataforma Acadêmica:`**
+O professor inicia o processo fazendo login na plataforma do sistema acadêmico fornecida pela instituição. Isso requer o uso de credenciais pessoais de acesso.
+
+---
 
 ### 2. Lançamento de notas
 
@@ -214,51 +219,32 @@ Nesta opção, os professores terão acesso a seguinte informação:
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
 <!-- Texto explicativo sobre o processo de Lançamento de notas -->
-O lançamento de notas é uma etapa crucial no ciclo acadêmico, permitindo aos professores registrar o desempenho dos alunos em suas disciplinas. Esse processo é facilitado por sistemas acadêmicos online, que oferecem uma plataforma para inserção e gerenciamento das notas. Abaixo, segue um guia detalhado sobre como os professores podem realizar essa tarefa de forma eficaz:
+O lançamento de notas é vital no ciclo acadêmico, permitindo que os professores registrem o desempenho dos alunos. Sistemas acadêmicos online simplificam esse processo, oferecendo uma plataforma para inserção e gerenciamento das notas. Veja abaixo um guia detalhado sobre como os professores podem realizar essa tarefa de forma eficaz.
 
-**1. Acesso à Plataforma Acadêmica:**
+**`Localização da Seção Lançar Notas:`** 
+Selecione a opção Lançar notas no menu principal.
 
-O professor inicia o processo fazendo login na plataforma do sistema acadêmico fornecida pela instituição. Isso geralmente requer o uso de credenciais pessoais de acesso.
+**`Seleção da Disciplina:`**
+Escolha o curso e disciplina, a partir de uma lista disponível.
 
-**2. Seleção da Disciplina:**
+**`Exibição da Lista de Alunos:`**
+O sistema exibe uma lista dos alunos matriculados na disciplina selecionada.
 
-Uma vez dentro da plataforma, o professor seleciona a disciplina específica que leciona a partir de uma lista disponível. Isso direciona o sistema para os registros relacionados a essa disciplina em particular.
+**`Seleção do Aluno e Atividades Avaliativas:`**
+Escolha o aluno específico da lista e, em seguida, é apresentado com uma lista das atividades avaliativas disponíveis para essa disciplina.
 
-**3. Exibição da Lista de Alunos:**
-
-O sistema exibe uma lista dos alunos matriculados na disciplina selecionada, fornecendo ao professor uma visão abrangente de sua classe.
-
-**4. Seleção do Aluno e Atividades Avaliativas:**
-
-O professor seleciona um aluno específico da lista e, em seguida, é apresentado com uma lista das atividades avaliativas disponíveis para essa disciplina.
-
-**5. Inserção das Notas:**
-
+**`Inserção das Notas:`**
 Para cada atividade avaliativa, o professor insere as notas correspondentes ao desempenho do aluno. Isso pode incluir notas de provas, trabalhos, participações em sala de aula, entre outros.
 
-**6. Cálculo Automático da Média Final:**
-
+**`Cálculo Automático da Média Final:`**
 Com base nas notas inseridas, o sistema calcula automaticamente a média final do aluno na disciplina. Isso simplifica o processo de avaliação e elimina a necessidade de cálculos manuais por parte do professor.
 
-**7. Revisão e Confirmação:**
-
+**`Revisão e Confirmação:`**
 O professor revisa cuidadosamente as notas calculadas pelo sistema. Se estiver satisfeito com os resultados, confirma o lançamento das notas, indicando que o processo está concluído.
 
-**Cenários Alternativos:**
-
-Em casos onde erros são identificados ou se o professor opta por não lançar as notas, existem cenários alternativos:
-
-**Erro no Lançamento de Notas:** 
-
-Se uma nota incorreta é inserida, o sistema exibe uma mensagem de erro, permitindo ao professor corrigir a nota conforme necessário.
-
-**Avaliação em Branco:** 
-
-Se o professor decide não lançar as notas, o sistema mantém as informações anteriores e cancela o processo de lançamento.
-
-**Conclusão:**
-
-O processo de lançamento de notas por professores é um aspecto fundamental da administração acadêmica, garantindo uma avaliação justa e precisa do desempenho dos alunos. Ao seguir este guia e estar ciente dos cenários alternativos, os professores podem garantir um registro eficaz e preciso das notas dos alunos.
+**`Cenários Alternativos:`**
+Em casos onde erros são identificados ou se o professor opta por não lançar as notas, é possível reverter.
+Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o professor decide não lançar as notas, o sistema mantém as informações anteriores e cancela o processo de lançamento.
 
 ---
 
