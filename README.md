@@ -231,7 +231,7 @@ Escolha o curso e disciplina, a partir de uma lista disponível.
 O sistema exibe uma lista dos alunos matriculados na disciplina selecionada.
 
 **`Seleção do Aluno e Atividades Avaliativas:`**
-Escolha o aluno específico da lista e, em seguida, é apresentado com uma lista das atividades avaliativas disponíveis para essa disciplina.
+Escolha o aluno específico da lista e, em seguida, é apresentado uma lista das atividades avaliativas disponíveis para essa disciplina.
 
 **`Inserção das Notas:`**
 Para cada atividade avaliativa, o professor insere as notas correspondentes ao desempenho do aluno. Isso pode incluir notas de provas, trabalhos, participações em sala de aula, entre outros.
@@ -259,7 +259,6 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 ## Opção "Fornecedor"
 
-Nesta opção, os professores terão acesso a seguinte informação:
 
 ### 1. Gerenciar Fornecedor
 
@@ -269,36 +268,28 @@ Nesta opção, os professores terão acesso a seguinte informação:
 <!-- Texto explicativo sobre o processo de Gerenciar Fornecedor -->
 O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas de gestão administrativa, permitindo que os administradores do sistema gerenciem eficientemente informações relacionadas aos fornecedores de uma instituição ou empresa. Este guia fornece uma visão geral dos passos envolvidos nesse processo:
 
-**1. Autenticação no Sistema:**
-
+**`Autenticação no Sistema:`**
 Antes de acessar a funcionalidade de gerenciamento de fornecedor, o administrador do sistema deve fazer login no sistema utilizando suas credenciais de acesso.
 
-**2. Acesso ao Painel de Administração:**
-
+**`Acesso ao Painel de Administração:`**
 Após a autenticação bem-sucedida, o administrador é direcionado para o painel de administração, onde tem acesso a diversas ferramentas e funcionalidades para gerenciar aspectos administrativos da instituição.
 
-**3. Seleção da Opção "Gerenciar Fornecedor":**
+**`Seleção da Opção "Gerenciar Fornecedor":`**
+Dentro do painel, selecione a opção específica de "Gerenciar Fornecedor" a partir do menu ou de uma lista de funcionalidades disponíveis.
 
-Dentro do painel de administração, o administrador seleciona a opção específica de "Gerenciar Fornecedor" a partir do menu ou de uma lista de funcionalidades disponíveis.
-
-**4. Visualização da Lista de Fornecedores:**
-
+**`Visualização da Lista de Fornecedores:`**
 O sistema exibe uma lista de fornecedores cadastrados, incluindo informações como nome, contato e detalhes do contrato. Essa lista permite uma visão geral dos fornecedores associados à instituição.
 
-**5. Seleção e Edição de Fornecedores:**
-
+**`Seleção e Edição de Fornecedores:`**
 O administrador pode selecionar um fornecedor específico da lista para visualizar e editar detalhes como nome, contato e informações contratuais. Essa funcionalidade permite atualizar e manter precisas as informações relacionadas aos fornecedores.
 
-**6. Adição e Remoção de Fornecedores (Cenário Alternativo 1):**
-
-Além da edição, o administrador tem a opção de adicionar novos fornecedores, inserindo informações relevantes por meio de um formulário específico. Da mesma forma, é possível remover fornecedores não mais necessários, mantendo a lista atualizada e organizada.
-
-**7. Pesquisa de Fornecedores (Cenário Alternativo 2):**
-
+**`Cenários Alternativos:`**
+Além da edição,  tem a opção de adicionar novos fornecedores, inserindo informações relevantes por meio de um formulário específico. Da mesma forma, é possível remover fornecedores não mais necessários, mantendo a lista atualizada e organizada.
 Para facilitar a localização de fornecedores específicos, o sistema oferece uma funcionalidade de pesquisa. O administrador pode inserir o nome ou outras informações relacionadas a um fornecedor na barra de pesquisa e obter resultados correspondentes.
 
 Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores de sistemas uma maneira eficiente de gerenciar e manter atualizadas as informações relacionadas aos fornecedores de uma instituição. Ao seguir os passos descritos neste guia, os administradores podem garantir uma gestão eficaz dos recursos fornecidos pelos parceiros externos, contribuindo para o funcionamento adequado e eficiente da instituição.
 
+---
 ## Opção "Sobre nós"
 
 <--! inserir imagem do layout com informações sobre os integrantes do grupo -->>
@@ -306,28 +297,24 @@ Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores 
 - **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
 - **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
 
-A guia "Sobre Nós" em um site desempenha um papel fundamental na construção da credibilidade, transparência e confiança entre a empresa e seus visitantes. Aqui estão algumas razões pelas quais a guia "Sobre Nós" é importante:
+A guia "Sobre Nós" em um site desempenha um papel fundamental na construção da credibilidade, transparência e confiança entre a empresa e seus visitantes. Aqui estão algumas razões pelas quais o guia "Sobre Nós" é importante:
 
-**Contextualização da Empresa:** 
-
+**`Contextualização da Empresa:`** 
 A guia "Sobre Nós" fornece aos visitantes uma compreensão mais profunda da empresa, sua história, missão, visão e valores. Isso ajuda a contextualizar a empresa dentro do mercado e da indústria em que opera.
 
-**Conexão com o Público:** 
-
+**`Conexão com o Público:`** 
 Ao compartilhar informações sobre a equipe, cultura organizacional e história da empresa, a guia "Sobre Nós" cria uma conexão emocional com os visitantes. Isso pode levar a um aumento na identificação do público-alvo com a marca.
 
-**Construção de Confiança:** Disponibilizar informações sobre a equipe de liderança, experiência e conquistas passadas ajuda a construir confiança com os visitantes. Eles se sentem mais seguros ao saber com quem estão fazendo negócios.
+**`Construção de Confiança:`** 
+Disponibilizar informações sobre a equipe de liderança, experiência e conquistas passadas ajuda a construir confiança com os visitantes. Eles se sentem mais seguros ao saber com quem estão fazendo negócios.
 
-**Demonstração de Credibilidade:** 
-
+**`Demonstração de Credibilidade:`** 
 A guia "Sobre Nós" é uma oportunidade para destacar prêmios, certificações, parcerias e outras conquistas da empresa. Isso ajuda a demonstrar sua credibilidade e experiência no setor.
 
-**Esclarecimento de Dúvidas:** 
-
+**`Esclarecimento de Dúvidas:`** 
 Muitas vezes, os visitantes têm dúvidas sobre a empresa, como sua história, valores ou equipe. A guia "Sobre Nós" é o lugar ideal para responder a essas perguntas de forma abrangente.
 
-**Diferenciação da Concorrência:** 
-
+**`Diferenciação da Concorrência:`** 
 A maneira como uma empresa se apresenta em sua página "Sobre Nós" pode diferenciá-la da concorrência. Destacar elementos únicos da empresa pode ajudar a atrair clientes em potencial.
 
 Em resumo, a guia "Sobre Nós" desempenha um papel crucial na construção da reputação, confiança e identidade da empresa online. É uma oportunidade valiosa para comunicar a história, valores e conquistas da empresa aos visitantes do site.
