@@ -67,7 +67,7 @@ Nesta opção, os alunos terão acesso a diversas operações:
 
 | **💻 Interface da nossa Área do aluno** |
 |:-----------------------------:
-| ![Texto Alternativo](pageAluno.png) | 
+| ![Texto Alternativo](pageLoginAluno.png) | 
 
 
 <!-- Texto explicativo sobre o processo de login -->
