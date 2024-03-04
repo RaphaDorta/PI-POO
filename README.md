@@ -288,8 +288,10 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 ### 1. Gerenciar Fornecedor
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para gerenciar fornecedor** |
+|:-----------------------------:
+| ![Matrícula Página Web](gerenciarFornecedor.png)|
+
 
 <!-- Texto explicativo sobre o processo de Gerenciar Fornecedor -->
 O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas de gestão administrativa, permitindo que os administradores do sistema gerenciem eficientemente informações relacionadas aos fornecedores de uma instituição ou empresa. Este guia fornece uma visão geral dos passos envolvidos nesse processo:
