@@ -20,10 +20,10 @@ O sistema visa facilitar o gerenciamento de uma universidade, oferecendo funcion
 
 ### Tipos de Usuários:
 
-| **Pessoas Físicas** | **Pessoas Jurídicas** |
+| **Pessoas Físicas**  | **Pessoas Jurídicas** |
 |:---------------------:|:-----------------------:|
-| Alunos              | Fornecedores          |
-| Professores         |                       |
+| Alunos  👩‍🎓👨‍🎓 | Fornecedores  🏢 |
+| Professores  👩‍🏫👨‍🏫 |                        |
 
 ---
 
@@ -55,9 +55,9 @@ Em resumo, a página inicial desempenha um papel fundamental na criação de uma
 
 ---
 
-## Opção Aluno
+## 🎓 Opção Aluno
 
-Nesta opção, os alunos terão acesso a diversas operações:
+Nesta opção, os alunos terão acesso a uma variedade de operações:
 
 ### 1. Efetuar Login
 
@@ -80,7 +80,7 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 ---
 
-### 2. Acessar Aulas
+### 2. Acessar Aulas 📚
 
 | **💻 Interface para acesso as aulas** |
 |:-----------------------------:
@@ -102,7 +102,7 @@ As aulas online não só são um pilar essencial na experiência educacional, ma
 
 ---
 
-### 3. Consultar Boletim
+### 3. Consultar Boletim 📊
 
 | **💻 Interface para consulta do boletim** |
 |:-----------------------------:
@@ -122,7 +122,7 @@ Além disso, problemas de conectividade podem surgir, impedindo o acesso do alun
 
 ---
 
-### 4. Efetuar Matrícula/Rematrícula
+### 4. Efetuar Matrícula/Rematrícula 📝
 
 | **💻 Interface para efetuar matrícula e rematrícula** |
 |:-----------------------------:
