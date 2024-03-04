@@ -20,13 +20,9 @@ O sistema visa facilitar o gerenciamento de uma universidade, oferecendo funcion
 
 ### Tipos de Usuários:
 
-| #### Pessoas Físicas:|
+| ### Pessoas Físicas:| ### Pessoas Jurídicas: |
 |:-----------------------------:
-| Alunos e Professores |
-
-| #### Pessoas Jurídicas: |
-|:-----------------------------:
-| Fornecedores |
+| Alunos e Professores | Fornecedores |
 
 ---
 
