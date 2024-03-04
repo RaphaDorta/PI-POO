@@ -231,9 +231,18 @@ Nesta opção, os professores terão acesso a diversas operações:
 |![Login do Professor](pageLoginProfessor.png)| 
 
 <!-- Texto explicativo sobre o processo de Efetuar login professor -->
+**`Acesso à Plataforma Acadêmica:`** O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para professores e possíveis cenários alternativos que podem surgir durante esse processo.
 
-**`Acesso à Plataforma Acadêmica:`**
-O professor inicia o processo fazendo login na plataforma do sistema acadêmico fornecida pela instituição. Isso requer o uso de credenciais pessoais de acesso.
+**`Acessar a Página de Login:`** O primeiro passo é acessar a página de login do sistema.
+
+**`Inserir Credenciais de Acesso:`** É necessário inserir as credenciais de acesso corretas. Isso inclui um nome de usuário ou e-mail e uma senha previamente cadastrada.
+
+**`Verificação das Credenciais:`** Após inserir as credenciais, o sistema verifica se elas correspondem às informações armazenadas no banco de dados. Se estiverem corretas, o acesso é concedido. Caso contrário, o sistema exibe uma mensagem de acordo com possíveis cenários alternativos.
+
+**`Cenários Alternativos:`** Se o usuário inserir credenciais inválidas, o sistema exibirá uma mensagem de erro informando que as credenciais são inválidas. Porém, o usuário pode tentar novamente.
+Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
+
+Efetuar login é um procedimento simples e obrigatório. Seguindo os passos mencionados acima, estando ciente dos possíveis cenários alternativos, os professores podem garantir um acesso seguro e eficaz da instituição
 
 ---
 
@@ -280,6 +289,19 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 | ![Matrícula Página Web](acessoAulasProf.png)| 
 
 <!-- Texto explicativo sobre o processo de acessar aulas na visão do professor -->
+A opção de disponibilizar aulas online oferece aos professores uma flexibilidade valiosa, permitindo-lhes ensinar de qualquer lugar e construir horários de aula personalizados.
+
+**`Autenticação no Sistema:`** Antes que os professores possam acessar as aulas online, é necessário que tenham concluído o processo de login. Isso garante que apenas professores autorizados tenham acesso aos materiais educacionais.
+
+**`Localização da Seção de Aulas`**: Instrua os professores a selecionar a opção 'acessar aulas' no menu principal do sistema.
+
+**`Seleção e Navegação entre as Aulas:`** Dentro da seção de aulas, os professores encontrarão uma lista das matérias disponíveis. Eles devem escolher a disciplina desejada e selecionar uma aula específica para visualização. As aulas devem estar organizadas por disciplina e data de gravação para facilitar a navegação.
+
+**`Visualização do Conteúdo da Aula:`** Após selecionar uma aula, os professores serão direcionados para a página onde o conteúdo da aula está disponível. Isso pode incluir vídeos gravados, apresentações de slides, documentos de leitura e outros materiais relacionados ao tópico abordado. Os professores devem ser encorajados a assistir às aulas no momento que melhor se adequar às suas necessidades de ensino.
+
+**`Cenários Alternativos:`** Durante o acesso às aulas online, os professores podem encontrar desafios como aulas indisponíveis ou problemas de conectividade. Eles devem ser orientados a entrar em contato com o suporte técnico da instituição para resolver qualquer problema e garantir que o acesso ao conteúdo educacional não seja comprometido.
+
+As aulas online são fundamentais para a experiência educacional, oferecendo aos professores a oportunidade de ensinar de forma mais flexível e eficiente.
 
 ---
 
