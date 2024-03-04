@@ -22,7 +22,7 @@ O sistema visa facilitar o gerenciamento de uma universidade, oferecendo funcion
 
 | #### Pessoas Físicas:|
 |:-----------------------------:
-| Alunos E Professores |
+| Alunos e Professores |
 
 | #### Pessoas Jurídicas: |
 |:-----------------------------:
