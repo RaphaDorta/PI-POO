@@ -65,8 +65,10 @@ Nesta opção, os alunos terão acesso a diversas operações:
 
 ### 1. Efetuar Login
 
-- **💻Interface para Página Web:** ![Login Página Web](pageLoginAluno.png)
-- **📱Interface para Mobile:** ![Login Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface da nossa Área do aluno** |
+|:-----------------------------:
+| ![Texto Alternativo](pageAluno.png) | 
+
 
 <!-- Texto explicativo sobre o processo de login -->
 O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para alunos e possíveis cenários alternativos que podem surgir durante esse processo.
@@ -92,8 +94,9 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 ### 2. Acessar Aulas
 
-- **💻Interface para Página Web:** ![Aulas Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Aulas Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para acesso as aulas** |
+|:-----------------------------:
+| ![Texto Alternativo](acessarAulas.png) | 
 
 <!-- Texto explicativo sobre como acessar as aulas -->
 A opção de acessar aulas online oferece aos alunos flexibilidade, permitindo o aprendizado de qualquer lugar e a construção de horários personalizados.
@@ -121,8 +124,9 @@ As aulas online não só são um pilar essencial na experiência educacional, ma
 
 ### 3. Consultar Boletim
 
-- **💻Interface para Página Web:** ![Boletim Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Boletim Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para consulta do boletim** |
+|:-----------------------------:
+| ![Texto Alternativo](consultaBoletim.png) | 
 
 <!-- Texto explicativo sobre como consultar o boletim -->
 Consultar o boletim possibilita verificar a média final nas disciplinas, oferecendo uma análise abrangente do desempenho acadêmico.
@@ -142,8 +146,9 @@ Além disso, problemas de conectividade podem surgir, impedindo o acesso do alun
 
 ### 4. Efetuar Matrícula/Rematrícula
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](pageMatricula.png)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para efetuar matrícula e rematrícula** |
+|:-----------------------------:
+| ![Matrícula Página Web](pageMatricula.png)| 
 
 <!-- Texto explicativo sobre o processo de matrícula/rematrícula -->
 A matrícula é o ato inicial de inscrição em uma instituição educacional, enquanto a rematrícula é a renovação do vínculo para o próximo período letivo, assegurando a continuidade dos estudos. Ambos são processos cruciais para garantir a regularidade acadêmica.
@@ -168,8 +173,9 @@ Durante o processo podem ocorrer problemas de conectividade com o sistema, imped
 
 ### 5. Consultar Finaceiro
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para consulta do financeiro** |
+|:-----------------------------:
+| ![Matrícula Página Web](consultarFinanceiro.png)| 
 
 <!-- Texto explicativo sobre o processo de consultar financeiro -->
 A consulta financeira desempenha um papel crucial na gestão das obrigações financeiras para com a instituição, garantindo que os alunos estejam plenamente cientes de suas mensalidades, taxas e demais despesas acadêmicas.
@@ -189,8 +195,9 @@ Durante o processo de consulta pode haver um problema de conectividade com o ser
 
 ### 6. Consultar Desempenho
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para consultar o desempenho** |
+|:-----------------------------:
+| ![Matrícula Página Web](consultaDesempenho.png)| 
 
 <!-- Texto explicativo sobre o processo de Consultar Desempenho -->
 Um componente crucial na jornada acadêmica de todo aluno é acompanhar de perto seu desempenho ao longo do curso. Isso envolve a verificação regular das notas em várias atividades das disciplinas.
@@ -219,8 +226,9 @@ Nesta opção, os professores terão acesso a diversas operações:
 
 ### 1. Efetuar login
 
-- **💻Interface para Página Web:** ![Login do Professor](pageLoginProfessor.png)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para Login do professor** |
+|:-----------------------------:
+|![Login do Professor](pageLoginProfessor.png)| 
 
 <!-- Texto explicativo sobre o processo de Efetuar login professor -->
 
@@ -231,8 +239,9 @@ O professor inicia o processo fazendo login na plataforma do sistema acadêmico 
 
 ### 2. Lançamento de notas
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para efetuar o lançamento de notas** |
+|:-----------------------------:
+| ![Matrícula Página Web](lancarNotas.png)| 
 
 <!-- Texto explicativo sobre o processo de Lançamento de notas -->
 O lançamento de notas é vital no ciclo acadêmico, permitindo que os professores registrem o desempenho dos alunos. Sistemas acadêmicos online simplificam esse processo, oferecendo uma plataforma para inserção e gerenciamento das notas. Veja abaixo um guia detalhado sobre como os professores podem realizar essa tarefa de forma eficaz.
@@ -266,8 +275,9 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 ### 3. Acessar aulas
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface para acessar as aulas como professor** |
+|:-----------------------------:
+| ![Matrícula Página Web](acessoAulasProf.png)| 
 
 <!-- Texto explicativo sobre o processo de acessar aulas na visão do professor -->
 
@@ -310,8 +320,10 @@ Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores 
 
 <--! inserir imagem do layout com informações sobre os integrantes do grupo -->>
 
-- **💻Interface para Página Web:** ![Matrícula Página Web](caminho/para/sua/imagem.jpg)
-- **📱Interface para Mobile:** ![Matrícula Mobile](caminho/para/sua/imagem.jpg)
+| **💻 Interface "Sobre nós** |
+|:-----------------------------:
+| ![Matrícula Página Web](about.png)| 
+
 
 A guia "Sobre Nós" em um site desempenha um papel fundamental na construção da credibilidade, transparência e confiança entre a empresa e seus visitantes. Aqui estão algumas razões pelas quais o guia "Sobre Nós" é importante:
 
