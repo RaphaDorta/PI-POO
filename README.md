@@ -27,7 +27,7 @@ O sistema visa facilitar o gerenciamento de uma universidade, oferecendo funcion
 
 ---
 
-# Interface da Página Inicial
+# Interface da Página Inicial 🏠
 
 Nesta seção, apresentaremos a interface da página inicial para os usuários.
 
