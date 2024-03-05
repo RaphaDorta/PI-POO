@@ -14,11 +14,11 @@
 
 Este documento tem como objetivo apresentar os protótipos do nosso sistema para o gerenciamento de uma universidade.
 
-### Objetivo do Sistema:
+### 🎯 Objetivo do Sistema:
 
 O sistema visa facilitar o gerenciamento de uma universidade, oferecendo funcionalidades para diferentes tipos de usuários, sejam eles pessoas físicas ou jurídicas.
 
-### Tipos de Usuários:
+### 👥 Tipos de Usuários:
 
 | **Pessoas Físicas**  | **Pessoas Jurídicas** |
 |:---------------------:|:-----------------------:|
@@ -55,7 +55,7 @@ Em resumo, a página inicial desempenha um papel fundamental na criação de uma
 
 ---
 
-## 🎓 Opção Aluno
+## Opção Aluno 🎓
 
 Nesta opção, os alunos terão acesso a uma variedade de operações:
 
