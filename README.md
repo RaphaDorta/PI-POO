@@ -186,7 +186,7 @@ A consulta de desempenho acadêmico é uma ferramenta valiosa para os alunos aco
 
 Nesta opção, os professores terão acesso a diversas operações:
 
-### 1. Efetuar login
+### 1. Efetuar login 🔐
 
 | **💻 Interface para Login do professor** |
 |:-----------------------------:
