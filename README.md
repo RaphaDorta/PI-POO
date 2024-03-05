@@ -59,7 +59,7 @@ Em resumo, a página inicial desempenha um papel fundamental na criação de uma
 
 Nesta opção, os alunos terão acesso a uma variedade de operações:
 
-### 1. Efetuar Login
+### 1. Efetuar Login 🔐
 
 | **💻 Interface da nossa Área do aluno** |
 |:-----------------------------:
@@ -144,7 +144,7 @@ Durante o processo podem ocorrer problemas de conectividade com o sistema, imped
 
 ---
 
-### 5. Consultar Finaceiro
+### 5. Consultar Finaceiro 💰
 
 | **💻 Interface para consulta do financeiro** |
 |:-----------------------------:
@@ -161,7 +161,7 @@ Durante o processo de consulta pode haver um problema de conectividade com o ser
 
 ---
 
-### 6. Consultar Desempenho
+### 6. Consultar Desempenho 📊
 
 | **💻 Interface para consultar o desempenho** |
 |:-----------------------------:
@@ -182,7 +182,7 @@ Durante o processo de consulta, pode ocorrer um problema de conectividade com o 
 A consulta de desempenho acadêmico é uma ferramenta valiosa para os alunos acompanharem seu progresso e identificarem áreas que precisam de melhoria. Ao seguir os passos descritos acima e estar ciente dos possíveis cenários alternativos, os alunos podem ter uma visão clara de seu desempenho acadêmico e tomar medidas para alcançar seus objetivos educacionais.
 
 ---
-## Opção "Professor"
+## Opção "Professor" 👨‍🏫
 
 Nesta opção, os professores terão acesso a diversas operações:
 
@@ -192,7 +192,6 @@ Nesta opção, os professores terão acesso a diversas operações:
 |:-----------------------------:
 |![Login do Professor](pageLoginProfessor.png)| 
 
-<!-- Texto explicativo sobre o processo de Efetuar login professor -->
 **`Acesso à Plataforma Acadêmica:`** O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para professores e possíveis cenários alternativos que podem surgir durante esse processo.
 
 **`Acessar a Página de Login:`** O primeiro passo é acessar a página de login do sistema.
@@ -208,7 +207,7 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 ---
 
-### 2. Lançamento de notas
+### 2. Lançamento de notas 📝
 
 | **💻 Interface para efetuar o lançamento de notas** |
 |:-----------------------------:
@@ -235,7 +234,7 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 ---
 
-### 3. Acessar aulas
+### 3. Acessar aulas 📚
 
 | **💻 Interface para acessar as aulas como professor** |
 |:-----------------------------:
@@ -258,10 +257,10 @@ As aulas online são fundamentais para a experiência educacional, oferecendo ao
 
 ---
 
-## Opção "Fornecedor"
+## Opção "Fornecedor" 🛒
 
 
-### 1. Gerenciar Fornecedor
+### 1. Gerenciar Fornecedor 🛍️
 
 | **💻 Interface para gerenciar fornecedor** |
 |:-----------------------------:
@@ -286,7 +285,7 @@ Para facilitar a localização de fornecedores específicos, o sistema oferece u
 Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores de sistemas uma maneira eficiente de gerenciar e manter atualizadas as informações relacionadas aos fornecedores de uma instituição. Ao seguir os passos descritos neste guia, os administradores podem garantir uma gestão eficaz dos recursos fornecidos pelos parceiros externos, contribuindo para o funcionamento adequado e eficiente da instituição.
 
 ---
-## Opção "Sobre nós"
+## Opção "Sobre nós" 🤝
 
 | **💻 Interface "Sobre nós** |
 |:-----------------------------:
