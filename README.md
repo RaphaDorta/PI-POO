@@ -1,4 +1,4 @@
-2# Apresentação do Projeto
+y782# Apresentação do Projeto
 
 ---
 
@@ -238,7 +238,7 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 | **💻 Interface para acessar as aulas como professor** |
 |:-----------------------------:
-| ![Matrícula Página Web](acessoAulasProf.png)| 
+| ![Matrícula Página Web](acessoAulas.png)| 
 
 <!-- Texto explicativo sobre o processo de acessar aulas na visão do professor -->
 A opção de disponibilizar aulas online oferece aos professores uma flexibilidade valiosa, permitindo-lhes ensinar de qualquer lugar e construir horários de aula personalizados.
