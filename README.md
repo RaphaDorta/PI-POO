@@ -264,7 +264,7 @@ As aulas online são fundamentais para a experiência educacional, oferecendo ao
 
 | **💻 Interface para gerenciar fornecedor** |
 |:-----------------------------:
-| ![Gerenciar de fornecedor](GerenciarFornecedor.png)|
+| ![Cadastro de fornecedor](CadastrarFornecedor.png) |
 
 O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas de gestão administrativa, permitindo que os administradores do sistema gerenciem eficientemente informações relacionadas aos fornecedores de uma instituição ou empresa. Este guia fornece uma visão geral dos passos envolvidos nesse processo:
 
@@ -280,7 +280,7 @@ O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas
 
 **`Seleção e Edição de Fornecedores:`** O administrador pode selecionar um fornecedor específico da lista para visualizar e editar detalhes como nome, contato e informações contratuais. Essa funcionalidade permite atualizar e manter precisas as informações relacionadas aos fornecedores.
 
-![Cadastro de fornecedor](CadastrarFornecedor.png)
+![Gerenciar de fornecedor](GerenciarFornecedor.png)
 
 **`Cenários Alternativos:`** Além da edição,  tem a opção de adicionar novos fornecedores, inserindo informações relevantes por meio de um formulário específico. Da mesma forma, é possível remover fornecedores não mais necessários, mantendo a lista atualizada e organizada. 
 
