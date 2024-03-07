@@ -63,7 +63,7 @@ Nesta opção, os alunos terão acesso a uma variedade de operações:
 
 | **💻 Interface da nossa Área do aluno** |
 |:-----------------------------:
-| ![Texto Alternativo](pageLoginAluno.png) | 
+| ![Page aluno](pageLoginAluno.png) | 
 
 O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para alunos e possíveis cenários alternativos que podem surgir durante esse processo.
 
@@ -84,7 +84,7 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 | **💻 Interface para acesso as aulas** |
 |:-----------------------------:
-| ![Texto Alternativo](acessarAulas.png) | 
+| ![Acessar aulas](acessarAulas.png) | 
 
 A opção de acessar aulas online oferece aos alunos flexibilidade, permitindo o aprendizado de qualquer lugar e a construção de horários personalizados.
 
@@ -106,7 +106,7 @@ As aulas online não só são um pilar essencial na experiência educacional, ma
 
 | **💻 Interface para consulta do boletim** |
 |:-----------------------------:
-| ![Texto Alternativo](consultaBoletim.png) | 
+| ![Consultar boletim](consultaBoletim.png) | 
 
 Consultar o boletim possibilita verificar a média final nas disciplinas, oferecendo uma análise abrangente do desempenho acadêmico.
 
@@ -148,7 +148,7 @@ Durante o processo podem ocorrer problemas de conectividade com o sistema, imped
 
 | **💻 Interface para consulta do financeiro** |
 |:-----------------------------:
-| ![Matrícula Página Web](consultarFinanceiro.png)| 
+| ![Consultar financeiro](consultarFinanceiro.png)| 
 
 A consulta financeira desempenha um papel crucial na gestão das obrigações financeiras para com a instituição, garantindo que os alunos estejam plenamente cientes de suas mensalidades, taxas e demais despesas acadêmicas.
 
@@ -165,7 +165,7 @@ Durante o processo de consulta pode haver um problema de conectividade com o ser
 
 | **💻 Interface para consultar o desempenho** |
 |:-----------------------------:
-| ![Matrícula Página Web](consultaDesempenho.png)| 
+| ![Consultar desempenho](ConsultarDesempenho.png)| 
 
 Um componente crucial na jornada acadêmica de todo aluno é acompanhar de perto seu desempenho ao longo do curso. Isso envolve a verificação regular das notas em várias atividades das disciplinas.
 
@@ -211,7 +211,7 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 | **💻 Interface para efetuar o lançamento de notas** |
 |:-----------------------------:
-| ![Matrícula Página Web](lancarNotas.png)| 
+| ![Lançar notas](lancarNotas.png)| 
 
 O lançamento de notas é vital no ciclo acadêmico, permitindo que os professores registrem o desempenho dos alunos. Sistemas acadêmicos online simplificam esse processo, oferecendo uma plataforma para inserção e gerenciamento das notas. Veja abaixo um guia detalhado sobre como os professores podem realizar essa tarefa de forma eficaz.
 
@@ -238,7 +238,7 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 | **💻 Interface para acessar as aulas como professor** |
 |:-----------------------------:
-| ![Matrícula Página Web](acessarAulas.png)| 
+| ![Acessar aulas](acessarAulas.png)| 
 
 <!-- Texto explicativo sobre o processo de acessar aulas na visão do professor -->
 A opção de disponibilizar aulas online oferece aos professores uma flexibilidade valiosa, permitindo-lhes ensinar de qualquer lugar e construir horários de aula personalizados.
@@ -264,7 +264,7 @@ As aulas online são fundamentais para a experiência educacional, oferecendo ao
 
 | **💻 Interface para gerenciar fornecedor** |
 |:-----------------------------:
-| ![Matrícula Página Web](gerenciarFornecedor.png)|
+| ![Gerenciar de fornecedor](GerenciarFornecedor.png)|
 
 O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas de gestão administrativa, permitindo que os administradores do sistema gerenciem eficientemente informações relacionadas aos fornecedores de uma instituição ou empresa. Este guia fornece uma visão geral dos passos envolvidos nesse processo:
 
@@ -275,8 +275,10 @@ O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas
 **`Seleção da Opção "Gerenciar Fornecedor":`** Dentro do painel, selecione a opção específica de "Gerenciar Fornecedor" a partir do menu ou de uma lista de funcionalidades disponíveis.
 
 **`Visualização da Lista de Fornecedores:`** O sistema exibe uma lista de fornecedores cadastrados, incluindo informações como nome, contato e detalhes do contrato. Essa lista permite uma visão geral dos fornecedores associados à instituição.
+| ![Listar fornecedores](ListaDeFornecedores.png)|
 
 **`Seleção e Edição de Fornecedores:`** O administrador pode selecionar um fornecedor específico da lista para visualizar e editar detalhes como nome, contato e informações contratuais. Essa funcionalidade permite atualizar e manter precisas as informações relacionadas aos fornecedores.
+| ![Cadastro de fornecedor](CadastrarFornecedor.png)|
 
 **`Cenários Alternativos:`** Além da edição,  tem a opção de adicionar novos fornecedores, inserindo informações relevantes por meio de um formulário específico. Da mesma forma, é possível remover fornecedores não mais necessários, mantendo a lista atualizada e organizada. 
 
@@ -289,7 +291,7 @@ Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores 
 
 | **💻 Interface "Sobre nós** |
 |:-----------------------------:
-| ![Matrícula Página Web](about.png)| 
+| ![Sobre Nós](about.png)| 
 
 
 A guia "Sobre Nós" em um site desempenha um papel fundamental na construção da credibilidade, transparência e confiança entre a empresa e seus visitantes. Aqui estão algumas razões pelas quais o guia "Sobre Nós" é importante:
