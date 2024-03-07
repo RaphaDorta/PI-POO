@@ -275,10 +275,12 @@ O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas
 **`Seleção da Opção "Gerenciar Fornecedor":`** Dentro do painel, selecione a opção específica de "Gerenciar Fornecedor" a partir do menu ou de uma lista de funcionalidades disponíveis.
 
 **`Visualização da Lista de Fornecedores:`** O sistema exibe uma lista de fornecedores cadastrados, incluindo informações como nome, contato e detalhes do contrato. Essa lista permite uma visão geral dos fornecedores associados à instituição.
-| ![Listar fornecedores](ListaDeFornecedores.png)|
+
+![Listar fornecedores](ListaDeFornecedores.png)
 
 **`Seleção e Edição de Fornecedores:`** O administrador pode selecionar um fornecedor específico da lista para visualizar e editar detalhes como nome, contato e informações contratuais. Essa funcionalidade permite atualizar e manter precisas as informações relacionadas aos fornecedores.
-| ![Cadastro de fornecedor](CadastrarFornecedor.png)|
+
+![Cadastro de fornecedor](CadastrarFornecedor.png)
 
 **`Cenários Alternativos:`** Além da edição,  tem a opção de adicionar novos fornecedores, inserindo informações relevantes por meio de um formulário específico. Da mesma forma, é possível remover fornecedores não mais necessários, mantendo a lista atualizada e organizada. 
 
