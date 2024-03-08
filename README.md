@@ -144,7 +144,7 @@ Durante o processo podem ocorrer problemas de conectividade com o sistema, imped
 
 ---
 
-### 5. Consultar Finaceiro 💰
+### 5. Consultar Financeiro 💰
 
 | **💻 Interface para consulta do financeiro** |
 |:-----------------------------:
