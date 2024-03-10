@@ -182,7 +182,7 @@ Durante o processo de consulta, pode ocorrer um problema de conectividade com o 
 A consulta de desempenho acadêmico é uma ferramenta valiosa para os alunos acompanharem seu progresso e identificarem áreas que precisam de melhoria. Ao seguir os passos descritos acima e estar ciente dos possíveis cenários alternativos, os alunos podem ter uma visão clara de seu desempenho acadêmico e tomar medidas para alcançar seus objetivos educacionais.
 
 ---
-## Opção "Professor" 👨‍🏫
+## Opção "Professor" 👨‍🏫👩‍🏫
 
 Nesta opção, os professores terão acesso a diversas operações:
 
