@@ -113,7 +113,7 @@ Consultar o boletim possibilita verificar a média final nas disciplinas, oferec
 **`Localização da Seção Consultar Boletim:`** Selecione a opção consultar o boletim no menu principal.
 
 **`Visualização do Boletim:`** 
-Ao selecionar a opção, o aluno é direcionado para uma nova tela onde pode especificar o curso e  período acadêmico desejado. Neste boletim, o aluno pode ver suas notas em cada disciplina, médias parciais e finais, assim como sua frequência nas aulas.
+Ao selecionar a opção, o aluno é direcionado para uma nova tela onde pode especificar o período acadêmico desejado. Neste boletim, o aluno pode ver suas notas em cada disciplina, médias parciais e finais, assim como sua frequência nas aulas.
 
 **`Cenários Alternativos:`**
 No entanto, podem surgir cenários alternativos durante o processo de consulta do boletim. Por exemplo, pode não haver registros de notas para o período selecionado, o que indica a ausência de informações disponíveis para aquele semestre em particular. Nesse caso, o sistema geralmente exibe uma mensagem informativa indicando a falta de registros.
@@ -169,7 +169,7 @@ Durante o processo de consulta pode haver um problema de conectividade com o ser
 
 Um componente crucial na jornada acadêmica de todo aluno é acompanhar de perto seu desempenho ao longo do curso. Isso envolve a verificação regular das notas em várias atividades das disciplinas.
 
-**`Localização da Seção Consultar Desempenho:`** Selecione a opção Consultar Finaceiro no menu principal.
+**`Localização da Seção Consultar Desempenho:`** Selecione a opção Consultar Desempenho no menu principal.
 
 **`Escolher a Matéria:`** Dentro da seção consulta de desempenho, os alunos têm a opção de escolher a matéria específica para a qual desejam verificar seu desempenho. 
 
