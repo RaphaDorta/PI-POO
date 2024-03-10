@@ -35,7 +35,7 @@ Nesta seção, apresentaremos a interface da página inicial para os usuários.
 
 | **💻 Interface da nossa Home page** |
 |:-----------------------------:
-| ![Texto Alternativo](image/pageInicial.png) | 
+| ![Texto Alternativo](images/pageInicial.png) | 
 
 A página inicial de um site desempenha um papel crucial na experiência do usuário e no sucesso geral do site. Aqui estão algumas razões pelas quais a página inicial é importante:
 
@@ -63,7 +63,7 @@ Nesta opção, os alunos terão acesso a uma variedade de operações:
 
 | **💻 Interface da nossa Área do aluno** |
 |:-----------------------------:
-| ![Page aluno](image/pageLoginAluno.png) | 
+| ![Page aluno](images/pageLoginAluno.png) | 
 
 O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para alunos e possíveis cenários alternativos que podem surgir durante esse processo.
 
@@ -84,7 +84,7 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 | **💻 Interface para acesso as aulas** |
 |:-----------------------------:
-| ![Acessar aulas](image/acessarAulas.png) | 
+| ![Acessar aulas](images/acessarAulas.png) | 
 
 A opção de acessar aulas online oferece aos alunos flexibilidade, permitindo o aprendizado de qualquer lugar e a construção de horários personalizados.
 
@@ -106,7 +106,7 @@ As aulas online não só são um pilar essencial na experiência educacional, ma
 
 | **💻 Interface para consulta do boletim** |
 |:-----------------------------:
-| ![Consultar boletim](image/consultaBoletim.png) | 
+| ![Consultar boletim](images/consultaBoletim.png) | 
 
 Consultar o boletim possibilita verificar a média final nas disciplinas, oferecendo uma análise abrangente do desempenho acadêmico.
 
@@ -126,7 +126,7 @@ Além disso, problemas de conectividade podem surgir, impedindo o acesso do alun
 
 | **💻 Interface para efetuar matrícula e rematrícula** |
 |:-----------------------------:
-| ![Matrícula Página Web](image/pageMatricula.png)| 
+| ![Matrícula Página Web](images/pageMatricula.png)| 
 
 A matrícula é o ato inicial de inscrição em uma instituição educacional, enquanto a rematrícula é a renovação do vínculo para o próximo período letivo, assegurando a continuidade dos estudos. Ambos são processos cruciais para garantir a regularidade acadêmica.
 
@@ -148,7 +148,7 @@ Durante o processo podem ocorrer problemas de conectividade com o sistema, imped
 
 | **💻 Interface para consulta do financeiro** |
 |:-----------------------------:
-| ![Consultar financeiro](image/consultarFinanceiro.png)| 
+| ![Consultar financeiro](images/consultarFinanceiro.png)| 
 
 A consulta financeira desempenha um papel crucial na gestão das obrigações financeiras para com a instituição, garantindo que os alunos estejam plenamente cientes de suas mensalidades, taxas e demais despesas acadêmicas.
 
@@ -165,7 +165,7 @@ Durante o processo de consulta pode haver um problema de conectividade com o ser
 
 | **💻 Interface para consultar o desempenho** |
 |:-----------------------------:
-| ![Consultar desempenho](image/ConsultarDesempenho.png)| 
+| ![Consultar desempenho](images/ConsultarDesempenho.png)| 
 
 Um componente crucial na jornada acadêmica de todo aluno é acompanhar de perto seu desempenho ao longo do curso. Isso envolve a verificação regular das notas em várias atividades das disciplinas.
 
@@ -190,7 +190,7 @@ Nesta opção, os professores terão acesso a diversas operações:
 
 | **💻 Interface para Login do professor** |
 |:-----------------------------:
-|![Login do Professor](image/pageLoginProfessor.png)| 
+|![Login do Professor](images/pageLoginProfessor.png)| 
 
 **`Acesso à Plataforma Acadêmica:`** O processo de efetuar login em um sistema online é uma etapa fundamental para que professores e alunos acessem os recursos disponíveis. Este guia detalha os passos envolvidos para professores e possíveis cenários alternativos que podem surgir durante esse processo.
 
@@ -211,7 +211,7 @@ Efetuar login é um procedimento simples e obrigatório. Seguindo os passos menc
 
 | **💻 Interface para efetuar o lançamento de notas** |
 |:-----------------------------:
-| ![Lançar notas](image/lancarNotas.png)| 
+| ![Lançar notas](images/lancarNotas.png)| 
 
 O lançamento de notas é vital no ciclo acadêmico, permitindo que os professores registrem o desempenho dos alunos. Sistemas acadêmicos online simplificam esse processo, oferecendo uma plataforma para inserção e gerenciamento das notas. Veja abaixo um guia detalhado sobre como os professores podem realizar essa tarefa de forma eficaz.
 
@@ -238,7 +238,7 @@ Se uma nota incorreta é inserida, o sistema permite a correção. Porém, se o 
 
 | **💻 Interface para acessar as aulas como professor** |
 |:-----------------------------:
-| ![Acessar aulas](image/acessarAulas.png)| 
+| ![Acessar aulas](images/acessarAulas.png)| 
 
 <!-- Texto explicativo sobre o processo de acessar aulas na visão do professor -->
 A opção de disponibilizar aulas online oferece aos professores uma flexibilidade valiosa, permitindo-lhes ensinar de qualquer lugar e construir horários de aula personalizados.
@@ -264,7 +264,7 @@ As aulas online são fundamentais para a experiência educacional, oferecendo ao
 
 | **💻 Interface para gerenciar fornecedor** |
 |:-----------------------------:
-| ![Cadastro de fornecedor](image/CadastrarFornecedor.png) |
+| ![Cadastro de fornecedor](images/CadastrarFornecedor.png) |
 
 O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas de gestão administrativa, permitindo que os administradores do sistema gerenciem eficientemente informações relacionadas aos fornecedores de uma instituição ou empresa. Este guia fornece uma visão geral dos passos envolvidos nesse processo:
 
@@ -276,11 +276,11 @@ O caso de uso "Gerenciar Fornecedor" é uma funcionalidade essencial em sistemas
 
 **`Visualização da Lista de Fornecedores:`** O sistema exibe uma lista de fornecedores cadastrados, incluindo informações como nome, contato e detalhes do contrato. Essa lista permite uma visão geral dos fornecedores associados à instituição.
 
-![Listar fornecedores](image/ListaDeFornecedores.png)
+![Listar fornecedores](images/ListaDeFornecedores.png)
 
 **`Seleção e Edição de Fornecedores:`** O administrador pode selecionar um fornecedor específico da lista para visualizar e editar detalhes como nome, contato e informações contratuais. Essa funcionalidade permite atualizar e manter precisas as informações relacionadas aos fornecedores.
 
-![Gerenciar de fornecedor](image/GerenciarFornecedor.png)
+![Gerenciar de fornecedor](images/GerenciarFornecedor.png)
 
 **`Cenários Alternativos:`** Além da edição,  tem a opção de adicionar novos fornecedores, inserindo informações relevantes por meio de um formulário específico. Da mesma forma, é possível remover fornecedores não mais necessários, mantendo a lista atualizada e organizada. 
 
@@ -293,7 +293,7 @@ Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores 
 
 | **💻 Interface "Sobre nós** |
 |:-----------------------------:
-| ![Sobre Nós](image/about.png)| 
+| ![Sobre Nós](images/about.png)| 
 
 
 A guia "Sobre Nós" em um site desempenha um papel fundamental na construção da credibilidade, transparência e confiança entre a empresa e seus visitantes. Aqui estão algumas razões pelas quais o guia "Sobre Nós" é importante:
