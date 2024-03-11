@@ -321,9 +321,7 @@ Em resumo, a guia "Sobre Nós" desempenha um papel crucial na construção da re
 |:-----------------------------:
 |![Login do Professor](images/pageLoginADM.png)| 
 
-**`Acessar a Página de Login:`** O primeiro passo é acessar a página de login do sistema.
-
-**`Inserir Credenciais de Acesso:`** É necessário inserir as credenciais de acesso corretas. Isso inclui um nome de usuário ou e-mail e uma senha previamente cadastrada.
+**`Inserir Credenciais de Acesso:`** É necessário inserir as credenciais de acesso corretas.
 
 **`Verificação das Credenciais:`** Após inserir as credenciais, o sistema verifica se elas correspondem às informações armazenadas no banco de dados. Se estiverem corretas, o acesso é concedido. Caso contrário, o sistema exibe uma mensagem de acordo com possíveis cenários alternativos.
 
