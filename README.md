@@ -350,5 +350,5 @@ Nesta opção, os administradores terão acesso a diversas operações:
 
 **`Boleto do Mês:`** Possibilita ao administrador gerenciar as transações financeiras relacionadas às mensalidades dos estudantes. 
 
-**`Mensagens de Professores:`** Na seção de Mensagens, o administrador pode interagir diretamente com o corpo docente. Isso inclui o envio de comunicados, atualizações sobre políticas institucionais, e a recepção de feedback dos professores. Essa ferramenta facilita a comunicação eficiente e fortalece a colaboração entre a administração e os professores, contribuindo para um ambiente acadêmico mais integrado e informado.
+**`Mensagens:`** Na seção de Mensagens, o administrador pode interagir diretamente com o corpo docente. Isso inclui o envio de comunicados, atualizações sobre políticas institucionais, e a recepção de feedback dos professores. Essa ferramenta facilita a comunicação eficiente e fortalece a colaboração entre a administração e os professores, contribuindo para um ambiente acadêmico mais integrado e informado.
 
