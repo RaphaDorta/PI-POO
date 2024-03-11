@@ -291,7 +291,7 @@ Em resumo, o caso de uso "Gerenciar Fornecedor" proporciona aos administradores 
 ---
 ## Opção "Sobre nós" 🤝
 
-| **💻 Interface "Sobre nós** |
+| **💻 Interface "Sobre nós"** |
 |:-----------------------------:
 | ![Sobre Nós](images/about.png)| 
 
@@ -311,3 +311,23 @@ A guia "Sobre Nós" em um site desempenha um papel fundamental na construção d
 **`Diferenciação da Concorrência:`** A maneira como uma empresa se apresenta em sua página "Sobre Nós" pode diferenciá-la da concorrência. Destacar elementos únicos da empresa pode ajudar a atrair clientes em potencial.
 
 Em resumo, a guia "Sobre Nós" desempenha um papel crucial na construção da reputação, confiança e identidade da empresa online. É uma oportunidade valiosa para comunicar a história, valores e conquistas da empresa aos visitantes do site.
+
+
+
+---
+## Opção Administrador
+
+| **💻 Interface para Login do Administrador** |
+|:-----------------------------:
+|![Login do Professor](images/pageLoginADM.png)| 
+
+**`Acessar a Página de Login:`** O primeiro passo é acessar a página de login do sistema.
+
+**`Inserir Credenciais de Acesso:`** É necessário inserir as credenciais de acesso corretas. Isso inclui um nome de usuário ou e-mail e uma senha previamente cadastrada.
+
+**`Verificação das Credenciais:`** Após inserir as credenciais, o sistema verifica se elas correspondem às informações armazenadas no banco de dados. Se estiverem corretas, o acesso é concedido. Caso contrário, o sistema exibe uma mensagem de acordo com possíveis cenários alternativos.
+
+**`Cenários Alternativos:`** Se inserir credenciais inválidas, o sistema exibirá uma mensagem de erro informando que as credenciais são inválidas. Porém, é possível tentar novamente. Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
+
+
+
