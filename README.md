@@ -335,5 +335,20 @@ Nesta opção, os administradores terão acesso a diversas operações:
 
 **`Cenários Alternativos:`** Se inserir credenciais inválidas, o sistema exibirá uma mensagem de erro informando que as credenciais são inválidas. Porém, é possível tentar novamente. Durante o processo de login, pode ocorrer um problema de conectividade com o servidor. Nesse caso, o sistema não consegue verificar as credenciais devido à falta de conexão com o servidor. Então, exibirá uma mensagem de erro indicando o problema de conectividade e o usuário deve tentar novamente quando a conexão for restabelecida.
 
+---
 
+### 2. Painel Administrativo 📝
+
+| **💻 Interface do Painel** |
+|:-----------------------------:
+|![Login do Professor](images/painelAdministrativo.png)| 
+
+
+**`Pedido de Fornecedores:`** A funcionalidade de Pedido de Fornecedores permite ao administrador solicitar produtos e serviços essenciais para a universidade. 
+
+**`Desempenho Geral:`** A seção de Desempenho Geral oferece ao administrador uma análise abrangente do funcionamento da universidade. Inclui métricas acadêmicas, como taxas de aprovação e desempenho dos estudantes. Essa funcionalidade é crucial para a tomada de decisões estratégicas e avaliação contínua da performance institucional.
+
+**`Boleto do Mês:`** Possibilita ao administrador gerenciar as transações financeiras relacionadas às mensalidades dos estudantes. 
+
+**`Mensagens de Professores:`** Na seção de Mensagens, o administrador pode interagir diretamente com o corpo docente. Isso inclui o envio de comunicados, atualizações sobre políticas institucionais, e a recepção de feedback dos professores. Essa ferramenta facilita a comunicação eficiente e fortalece a colaboração entre a administração e os professores, contribuindo para um ambiente acadêmico mais integrado e informado.
 
