@@ -317,6 +317,10 @@ Em resumo, a guia "Sobre Nós" desempenha um papel crucial na construção da re
 ---
 ## Opção Administrador
 
+Nesta opção, os administradores terão acesso a diversas operações:
+
+### 1. Efetuar login 🔐
+
 | **💻 Interface para Login do Administrador** |
 |:-----------------------------:
 |![Login do Professor](images/pageLoginADM.png)| 
