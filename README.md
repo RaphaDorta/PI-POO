@@ -344,9 +344,9 @@ Nesta opção, os administradores terão acesso a diversas operações:
 |![Login do Professor](images/painelAdministrativo.png)| 
 
 
-**`Pedido de Fornecedores:`** A funcionalidade de Pedido de Fornecedores permite ao administrador solicitar produtos e serviços essenciais para a universidade. 
+**`Pedido de Fornecedores:`** Permite ao administrador solicitar produtos e serviços essenciais para a universidade. 
 
-**`Desempenho Geral:`** A seção de Desempenho Geral oferece ao administrador uma análise abrangente do funcionamento da universidade. Inclui métricas acadêmicas, como taxas de aprovação e desempenho dos estudantes. Essa funcionalidade é crucial para a tomada de decisões estratégicas e avaliação contínua da performance institucional.
+**`Desempenho Geral:`** Oferece ao administrador uma análise abrangente do funcionamento da universidade. Inclui métricas acadêmicas, como taxas de aprovação e desempenho dos estudantes. Essa funcionalidade é crucial para a tomada de decisões estratégicas e avaliação contínua da performance institucional.
 
 **`Boleto do Mês:`** Possibilita ao administrador gerenciar as transações financeiras relacionadas às mensalidades dos estudantes. 
 
