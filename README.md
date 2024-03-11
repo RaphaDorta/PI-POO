@@ -124,9 +124,13 @@ Além disso, problemas de conectividade podem surgir, impedindo o acesso do alun
 
 ### 4. Efetuar Matrícula/Rematrícula 📝
 
-| **💻 Interface para efetuar matrícula e rematrícula** |
+| **💻 Interface para efetuar matrícula** |
 |:-----------------------------:
 | ![Matrícula Página Web](images/pageMatricula.png)| 
+
+| **💻 Interface para efetuar rematrícula** |
+|:-----------------------------:
+| ![Matrícula Página Web](images/pageRematricula.png)| 
 
 A matrícula é o ato inicial de inscrição em uma instituição educacional, enquanto a rematrícula é a renovação do vínculo para o próximo período letivo, assegurando a continuidade dos estudos. Ambos são processos cruciais para garantir a regularidade acadêmica.
 
