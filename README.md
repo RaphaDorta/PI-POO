@@ -319,7 +319,7 @@ Em resumo, a guia "Sobre Nós" desempenha um papel crucial na construção da re
 
 
 ---
-## Opção Administrador
+## Opção Administrador 🔧
 
 Nesta opção, os administradores terão acesso a diversas operações:
 
@@ -337,7 +337,7 @@ Nesta opção, os administradores terão acesso a diversas operações:
 
 ---
 
-### 2. Painel Administrativo 📝
+### 2. Painel Administrativo 🛠️📈
 
 | **💻 Interface do Painel** |
 |:-----------------------------:
